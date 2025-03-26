@@ -3,7 +3,6 @@
 ## 📌 Table of Contents
 - [Introduction](#introduction)
 - [Demo](#demo)
-- [Inspiration](#inspiration)
 - [What It Does](#what-it-does)
 - [How We Built It](#how-we-built-it)
 - [Challenges We Faced](#challenges-we-faced)
@@ -15,7 +14,6 @@
 
 ## 🎯 Introduction
 The Entity Intelligence Risk Analysis Model automates the detection, verification, and risk scoring of entities (corporations, non-profits, shell companies, and financial intermediaries) involved in financial transactions. The model processes structured (CSV), unstructured (JSON & text), and publicly available news sources to assess risk levels based on ownership patterns, sanctions lists, and transaction behaviors.
-
 
 ## 🎥 Demo 
 📹 [Video Demo](https://github.com/ewfx/aidel-code-302/tree/main/artifacts/demo)   
@@ -34,7 +32,6 @@ The Entity Intelligence Risk Analysis Model automates the detection, verificatio
 - Risk Assessment (Sanctions List, Financial Crime Checks).
 - Generate Structured Output (CSV) for further analysis.
 
-
 ## 🚧 Challenges We Faced
 - Processing highly unstructured text data efficiently.
 - Ensuring BERT’s NER model correctly detects organizations & people.
@@ -47,12 +44,13 @@ The Entity Intelligence Risk Analysis Model automates the detection, verificatio
    ```
 2. Install dependencies  
    ```sh
-   npm i  # or pip install -r requirements.txt (for Python)
+   npm i  # for frontend
+   pip install -r requirements.txt (for Python)   # for backend
    ```
 3. Run the project  
    ```sh
-   python src\main.py
-   npm start
+   python src\main.py   # for frontend
+   npm start            # for backend
    ```
 
 ## 🏗️ Tech Stack
@@ -61,4 +59,4 @@ The Entity Intelligence Risk Analysis Model automates the detection, verificatio
 - 🔹 Database: OFAC-SDN, Non-SDN, World Bank’s Debarred List
 
 ## 👥 Team
-- **Code-302** - [GitHub](https://github.com/ewfx/aidel-code-302) | 
+- **Code-302** - [GitHub](https://github.com/ewfx/aidel-code-302) 
