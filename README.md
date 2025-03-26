@@ -14,31 +14,36 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+The Entity Intelligence Risk Analysis Model automates the detection, verification, and risk scoring of entities (corporations, non-profits, shell companies, and financial intermediaries) involved in financial transactions. The model processes structured (CSV), unstructured (JSON & text), and publicly available news sources to assess risk levels based on ownership patterns, sanctions lists, and transaction behaviors.
 
-## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
-
-## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+## 🎥 Demo 
+📹 [Video Demo](https://github.com/ewfx/aidel-code-302/tree/main/artifacts/demo)   
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+Processes Structured & Unstructured Data (CSV, JSON, Text)
+Uses AI & NLP (BERT-based NER) to Extract Entity Relationships
+Cross-checks Entities Against Sanctions Lists (OFAC, World Bank, SEC Edgar)
+Assigns Risk Scores (High, Medium, Low) Based on Entity & Transaction Risk
+Generates Standardized Output in CSV/Excel Format
+REST API Integration for Frontend Dashboard
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+Extract Entities (Organizations, People, Locations) using BERT (NER).
+Identify Ownership Links 
+Risk Assessment (Sanctions List, Financial Crime Checks).
+Generate Structured Output (CSV) for further analysis.
+
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+Processing highly unstructured text data efficiently.
+Ensuring BERT’s NER model correctly detects organizations & people.
+Integrating real-time sanctions databases & news sources.
 
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/your-repo.git](https://github.com/ewfx/aidel-code-302.git
    ```
 2. Install dependencies  
    ```sh
@@ -46,15 +51,13 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+   python src\main.py
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Frontend: React, mUI
+- 🔹 Backend: Python, Pandas, NumPy, Torch, sklearn, transformers, datasets, evaluate, json
+- 🔹 Database: OFAC-SDN, Non-SDN, World Bank’s Debarred List
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)# aidel-code-302
+- **Code-302** - [GitHub](https://github.com/ewfx/aidel-code-302) | 
