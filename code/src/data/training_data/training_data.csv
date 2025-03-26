@@ -1,0 +1,102 @@
+Transaction ID,Date,Sender Name,Sender Country,Sender Bank,Receiver Name,Receiver Country,Receiver Bank,Amount,Transaction Details,Status,Sender Predicted Category,Receiver Predicted Category,Risk Score
+TXN-5511-370,25-03-2025 23:57,Rostec,UK,JP Morgan Chase,Greenpeace,Cayman Islands,HSBC,"$865,766 BTC",Cheque,Rejected,Shell Company,NGO,0.9500000000000001
+TXN-5819-307,25-03-2025 23:57,ABC Offshore Services,UK,JP Morgan Chase,ExxonMobil,Cayman Islands,Deutsche Bank,"$1,226,361 USD",Wire Transfer,Completed,Shell Company,Corporation,0.9500000000000001
+TXN-3005-385,25-03-2025 23:57,Vladimir Putin,Switzerland,Cayman National Bank,JP Morgan Chase,USA,Deutsche Bank,"$1,724,345 GBP",Cryptocurrency,Under Review,PEP,Corporation,0.9000000000000001
+TXN-5523-237,25-03-2025 23:57,North Korea Trading Corporation,Switzerland,Cayman National Bank,Oxfam International,China,Cayman National Bank,"$2,125,575 BTC",SWIFT,Under Review,Shell Company,NGO,0.9500000000000001
+TXN-3771-928,25-03-2025 23:57,BlackRock,Russia,Cayman National Bank,Shell Trading Ltd,USA,HSBC,"$4,215,624 EUR",SWIFT,Completed,Shell Company,Corporation,0.9500000000000001
+TXN-1533-499,25-03-2025 23:57,Vladimir Putin,USA,Cayman National Bank,United Nations,UK,JP Morgan Chase,"$1,455,756 ETH",SWIFT,Completed,PEP,Government Organization,0.9000000000000001
+TXN-7791-810,25-03-2025 23:57,Crypto Exchange Ltd,Panama,Cayman National Bank,Goldman Sachs,China,Deutsche Bank,"$2,734,148 EUR",Wire Transfer,Rejected,Shell Company,Corporation,1.0
+TXN-1243-762,25-03-2025 23:57,Tesla Inc.,USA,Swiss National Bank,JP Morgan Chase,British Virgin Islands,Swiss National Bank,"$950,082 ETH",SWIFT,Under Review,Corporation,Corporation,0.1
+TXN-8557-540,25-03-2025 23:57,Goldman Sachs,Russia,JP Morgan Chase,Goldman Sachs,Russia,Swiss National Bank,"$664,148 EUR",SWIFT,Pending,Corporation,Corporation,0.1
+TXN-5872-573,25-03-2025 23:57,North Korea Trading Corporation,Cayman Islands,Swiss National Bank,Panama Offshore Holdings,UK,Deutsche Bank,"$222,360 BTC",SWIFT,Completed,Shell Company,Shell Company,1.0
+TXN-1532-270,25-03-2025 23:57,Greenpeace,China,Deutsche Bank,Red Cross,Cayman Islands,JP Morgan Chase,"$4,020,444 USD",Cryptocurrency,Pending,NGO,NGO,0.1
+TXN-1725-888,25-03-2025 23:57,Rostec,UK,JP Morgan Chase,Tesla Inc.,Germany,Deutsche Bank,"$1,696,126 USD",Cheque,Rejected,Shell Company,Corporation,0.9500000000000001
+TXN-9433-154,25-03-2025 23:57,United Nations,Switzerland,JP Morgan Chase,Goldman Sachs,Switzerland,Cayman National Bank,"$991,469 EUR",SWIFT,Pending,Government Organization,Corporation,0.1
+TXN-5690-556,25-03-2025 23:57,Goldman Sachs,Panama,Deutsche Bank,ExxonMobil,Switzerland,Cayman National Bank,"$3,828,464 BTC",Cheque,Completed,Corporation,Corporation,0.8
+TXN-6461-360,25-03-2025 23:57,BlackRock,Panama,Cayman National Bank,Rothschild & Co,Russia,Swiss National Bank,"$4,149,767 ETH",SWIFT,Rejected,Shell Company,Corporation,1.0
+TXN-6118-748,25-03-2025 23:57,Shell Holdings Ltd,China,Deutsche Bank,Oxfam International,China,JP Morgan Chase,"$4,155,173 BTC",SWIFT,Rejected,Corporation,NGO,0.1
+TXN-9730-836,25-03-2025 23:57,North Korea Trading Corporation,UK,HSBC,BlackRock,USA,JP Morgan Chase,"$3,193,034 BTC",SWIFT,Pending,Shell Company,Shell Company,1.0
+TXN-8305-146,25-03-2025 23:57,United Nations,British Virgin Islands,Cayman National Bank,HSBC Holdings,Cayman Islands,Swiss National Bank,"$3,894,786 EUR",Cheque,Pending,Government Organization,Corporation,0.1
+TXN-8395-938,25-03-2025 23:57,ABC Offshore Services,Germany,Deutsche Bank,United Nations,Switzerland,JP Morgan Chase,"$1,831,186 GBP",Cryptocurrency,Completed,Shell Company,Government Organization,0.9500000000000001
+TXN-8612-267,25-03-2025 23:57,Crypto Exchange Ltd,Russia,Cayman National Bank,HSBC Holdings,UK,Cayman National Bank,"$4,845,128 USD",SWIFT,Pending,Shell Company,Corporation,0.9500000000000001
+TXN-3198-459,25-03-2025 23:57,Rothschild & Co,China,HSBC,Red Cross,UK,JP Morgan Chase,"$3,787,944 USD",SWIFT,Under Review,Corporation,NGO,0.1
+TXN-5917-648,25-03-2025 23:57,United Nations,Cayman Islands,Swiss National Bank,Red Cross,Panama,Swiss National Bank,"$532,732 GBP",Cheque,Under Review,Government Organization,NGO,0.8
+TXN-7120-241,25-03-2025 23:57,Goldman Sachs,China,Deutsche Bank,Goldman Sachs,Cayman Islands,Cayman National Bank,"$2,719,868 EUR",Cryptocurrency,Rejected,Corporation,Corporation,0.1
+TXN-8188-183,25-03-2025 23:57,Red Cross,Switzerland,HSBC,World Health Organization,China,JP Morgan Chase,"$4,064,664 BTC",SWIFT,Rejected,NGO,NGO,0.1
+TXN-1920-874,25-03-2025 23:57,Vladimir Putin,Russia,JP Morgan Chase,BlackRock,Russia,Cayman National Bank,"$4,679,956 USD",Cryptocurrency,Completed,PEP,Shell Company,1.0
+TXN-9697-251,25-03-2025 23:57,Panama Offshore Holdings,Panama,Cayman National Bank,ExxonMobil,Panama,Cayman National Bank,"$4,669,002 GBP",Cryptocurrency,Completed,Shell Company,Corporation,1.0
+TXN-5357-353,25-03-2025 23:57,HSBC Holdings,Panama,Cayman National Bank,ExxonMobil,Panama,Swiss National Bank,"$251,679 USD",SWIFT,Rejected,Corporation,Corporation,1.0
+TXN-2869-675,25-03-2025 23:57,HSBC Holdings,China,Deutsche Bank,Greenpeace,China,Deutsche Bank,"$2,504,766 EUR",Cheque,Pending,Corporation,NGO,0.1
+TXN-9619-301,25-03-2025 23:57,Goldman Sachs,China,Cayman National Bank,HSBC Holdings,Cayman Islands,HSBC,"$2,881,148 ETH",Cheque,Pending,Corporation,Corporation,0.1
+TXN-4988-870,25-03-2025 23:57,United Nations,USA,Deutsche Bank,HSBC Holdings,Panama,HSBC,"$1,933,677 BTC",Cheque,Under Review,Government Organization,Corporation,0.8
+TXN-1600-440,25-03-2025 23:57,Shell Trading Ltd,China,HSBC,ExxonMobil,Cayman Islands,HSBC,"$354,864 USD",SWIFT,Pending,Corporation,Corporation,0.1
+TXN-3004-728,25-03-2025 23:57,Red Cross,Germany,Cayman National Bank,United Nations,British Virgin Islands,JP Morgan Chase,"$1,562,505 GBP",Wire Transfer,Completed,NGO,Government Organization,0.1
+TXN-7476-549,25-03-2025 23:57,ExxonMobil,Cayman Islands,Swiss National Bank,Greenpeace,Switzerland,Cayman National Bank,"$2,052,334 ETH",Cheque,Completed,Corporation,NGO,0.1
+TXN-6773-561,25-03-2025 23:57,ExxonMobil,USA,JP Morgan Chase,BlackRock,British Virgin Islands,Cayman National Bank,"$4,746,551 ETH",SWIFT,Rejected,Corporation,Shell Company,0.9500000000000001
+TXN-5354-460,25-03-2025 23:57,Shell Trading Ltd,USA,HSBC,Greenpeace,Cayman Islands,Cayman National Bank,"$4,549,717 EUR",Wire Transfer,Rejected,Corporation,NGO,0.1
+TXN-6115-698,25-03-2025 23:57,Shell Holdings Ltd,Switzerland,Cayman National Bank,United Nations,USA,Swiss National Bank,"$430,584 USD",Wire Transfer,Rejected,Corporation,Government Organization,0.1
+TXN-2975-761,25-03-2025 23:57,Gazprom,USA,HSBC,World Health Organization,UK,HSBC,"$2,836,022 EUR",SWIFT,Pending,Corporation,NGO,0.1
+TXN-7489-602,25-03-2025 23:57,JP Morgan Chase,Cayman Islands,HSBC,Panama Offshore Holdings,Russia,Cayman National Bank,"$983,643 EUR",Cryptocurrency,Rejected,Corporation,Shell Company,0.9500000000000001
+TXN-8365-729,25-03-2025 23:57,Goldman Sachs,Switzerland,JP Morgan Chase,BlackRock,Cayman Islands,Deutsche Bank,"$3,793,830 ETH",Cryptocurrency,Completed,Corporation,Shell Company,0.9500000000000001
+TXN-2776-390,25-03-2025 23:57,BlackRock,British Virgin Islands,Cayman National Bank,Oxfam International,Cayman Islands,Cayman National Bank,"$1,790,649 GBP",SWIFT,Rejected,Shell Company,NGO,0.9500000000000001
+TXN-3356-164,25-03-2025 23:57,Hawala Network Inc,British Virgin Islands,Swiss National Bank,JP Morgan Chase,British Virgin Islands,HSBC,"$4,483,888 USD",Wire Transfer,Pending,Shell Company,Corporation,0.9500000000000001
+TXN-9482-492,25-03-2025 23:57,Shell Holdings Ltd,China,Swiss National Bank,BlackRock,Russia,HSBC,"$733,392 ETH",SWIFT,Pending,Corporation,Shell Company,0.9500000000000001
+TXN-3343-944,25-03-2025 23:57,North Korea Trading Corporation,USA,HSBC,United Nations,USA,Cayman National Bank,"$880,728 EUR",Wire Transfer,Under Review,Shell Company,Government Organization,0.9500000000000001
+TXN-4383-409,25-03-2025 23:57,Shell Trading Ltd,China,Cayman National Bank,Rothschild & Co,USA,JP Morgan Chase,"$3,456,775 EUR",Cryptocurrency,Under Review,Corporation,Corporation,0.1
+TXN-3759-145,25-03-2025 23:57,BlackRock,British Virgin Islands,HSBC,United Nations,British Virgin Islands,HSBC,"$4,638,637 USD",Cryptocurrency,Completed,Shell Company,Government Organization,0.9500000000000001
+TXN-3231-186,25-03-2025 23:57,Tesla Inc.,Switzerland,Cayman National Bank,ExxonMobil,Germany,HSBC,"$639,533 ETH",Wire Transfer,Completed,Corporation,Corporation,0.1
+TXN-1409-313,25-03-2025 23:57,BlackRock,British Virgin Islands,JP Morgan Chase,HSBC Holdings,UK,JP Morgan Chase,"$2,240,554 ETH",Cryptocurrency,Pending,Shell Company,Corporation,0.9500000000000001
+TXN-9497-724,25-03-2025 23:57,Panama Offshore Holdings,Panama,Swiss National Bank,Greenpeace,Switzerland,HSBC,"$2,149,808 ETH",SWIFT,Under Review,Shell Company,NGO,1.0
+TXN-7130-519,25-03-2025 23:57,Goldman Sachs,USA,Swiss National Bank,Tesla Inc.,Panama,HSBC,"$155,415 GBP",Wire Transfer,Completed,Corporation,Corporation,0.8
+TXN-2929-750,25-03-2025 23:57,North Korea Trading Corporation,Germany,Swiss National Bank,Red Cross,UK,Swiss National Bank,"$156,914 EUR",SWIFT,Rejected,Shell Company,NGO,0.9500000000000001
+TXN-6333-509,25-03-2025 23:57,Rostec,Panama,HSBC,Rothschild & Co,China,Cayman National Bank,"$1,991,126 GBP",Cryptocurrency,Rejected,Shell Company,Corporation,1.0
+TXN-1501-498,25-03-2025 23:57,Nicolas Maduro,USA,JP Morgan Chase,Tesla Inc.,Germany,HSBC,"$2,059,041 GBP",Cryptocurrency,Completed,PEP,Corporation,0.9000000000000001
+TXN-1082-927,25-03-2025 23:57,United Nations,USA,Cayman National Bank,Panama Offshore Holdings,Switzerland,JP Morgan Chase,"$2,720,092 EUR",SWIFT,Completed,Government Organization,Shell Company,0.9500000000000001
+TXN-9242-691,25-03-2025 23:57,Panama Offshore Holdings,Russia,Cayman National Bank,JP Morgan Chase,Switzerland,Deutsche Bank,"$1,011,857 BTC",Cryptocurrency,Completed,Shell Company,Corporation,0.9500000000000001
+TXN-6567-429,25-03-2025 23:57,Vladimir Putin,China,JP Morgan Chase,Greenpeace,China,Swiss National Bank,"$1,611,817 USD",Cheque,Pending,PEP,NGO,0.9000000000000001
+TXN-3489-827,25-03-2025 23:57,Goldman Sachs,Panama,JP Morgan Chase,Tesla Inc.,USA,Swiss National Bank,"$3,634,797 GBP",Cheque,Rejected,Corporation,Corporation,0.8
+TXN-9158-920,25-03-2025 23:57,Goldman Sachs,Panama,JP Morgan Chase,United Nations,Russia,Swiss National Bank,"$2,950,010 BTC",Cryptocurrency,Rejected,Corporation,Government Organization,0.8
+TXN-7097-262,25-03-2025 23:57,Gazprom,British Virgin Islands,HSBC,Rothschild & Co,Switzerland,JP Morgan Chase,"$3,887,052 ETH",Cheque,Completed,Corporation,Corporation,0.1
+TXN-9443-220,25-03-2025 23:57,ABC Offshore Services,Cayman Islands,Cayman National Bank,Panama Offshore Holdings,Switzerland,JP Morgan Chase,"$2,591,691 EUR",Cryptocurrency,Pending,Shell Company,Shell Company,1.0
+TXN-9490-570,25-03-2025 23:57,Oxfam International,USA,Cayman National Bank,Greenpeace,Germany,JP Morgan Chase,"$4,284,841 GBP",Wire Transfer,Pending,NGO,NGO,0.1
+TXN-3971-890,25-03-2025 23:57,Hawala Network Inc,Russia,HSBC,Red Cross,USA,JP Morgan Chase,"$1,434,215 USD",Wire Transfer,Under Review,Shell Company,NGO,0.9500000000000001
+TXN-9200-360,25-03-2025 23:57,Rothschild & Co,China,JP Morgan Chase,United Nations,Russia,JP Morgan Chase,"$643,094 EUR",Cryptocurrency,Rejected,Corporation,Government Organization,0.1
+TXN-5161-216,25-03-2025 23:57,Red Cross,China,Cayman National Bank,Panama Offshore Holdings,Russia,Swiss National Bank,"$4,317,455 BTC",Cryptocurrency,Rejected,NGO,Shell Company,0.9500000000000001
+TXN-6878-787,25-03-2025 23:57,Red Cross,Switzerland,Deutsche Bank,Goldman Sachs,Russia,Deutsche Bank,"$4,208,126 ETH",Wire Transfer,Under Review,NGO,Corporation,0.1
+TXN-4123-416,25-03-2025 23:57,Hawala Network Inc,British Virgin Islands,HSBC,Rothschild & Co,USA,Cayman National Bank,"$4,292,316 USD",SWIFT,Completed,Shell Company,Corporation,0.9500000000000001
+TXN-7269-779,25-03-2025 23:57,Panama Offshore Holdings,Cayman Islands,JP Morgan Chase,Oxfam International,Switzerland,Deutsche Bank,"$403,659 BTC",Cheque,Pending,Shell Company,NGO,0.9500000000000001
+TXN-4586-530,25-03-2025 23:57,Hawala Network Inc,UK,Swiss National Bank,BlackRock,Russia,Deutsche Bank,"$1,652,382 ETH",Cryptocurrency,Pending,Shell Company,Shell Company,1.0
+TXN-8997-973,25-03-2025 23:57,JP Morgan Chase,USA,Deutsche Bank,BlackRock,British Virgin Islands,Swiss National Bank,"$1,353,823 GBP",Cryptocurrency,Completed,Corporation,Shell Company,0.9500000000000001
+TXN-1039-473,25-03-2025 23:57,Red Cross,Russia,Deutsche Bank,Goldman Sachs,China,Cayman National Bank,"$4,512,472 USD",Cheque,Completed,NGO,Corporation,0.1
+TXN-9916-154,25-03-2025 23:57,HSBC Holdings,Switzerland,JP Morgan Chase,ExxonMobil,Cayman Islands,JP Morgan Chase,"$4,949,001 EUR",Cryptocurrency,Under Review,Corporation,Corporation,0.1
+TXN-1960-193,25-03-2025 23:57,HSBC Holdings,Switzerland,Cayman National Bank,Rothschild & Co,Switzerland,JP Morgan Chase,"$1,197,271 GBP",Cryptocurrency,Pending,Corporation,Corporation,0.1
+TXN-9385-916,25-03-2025 23:57,Panama Offshore Holdings,Panama,JP Morgan Chase,Goldman Sachs,China,Swiss National Bank,"$443,744 ETH",Wire Transfer,Rejected,Shell Company,Corporation,1.0
+TXN-5825-449,25-03-2025 23:57,Greenpeace,Germany,HSBC,ExxonMobil,Germany,JP Morgan Chase,"$4,719,251 ETH",Cheque,Completed,NGO,Corporation,0.1
+TXN-1646-126,25-03-2025 23:57,ExxonMobil,Switzerland,Cayman National Bank,Panama Offshore Holdings,Cayman Islands,Cayman National Bank,"$3,194,188 USD",SWIFT,Rejected,Corporation,Shell Company,0.9500000000000001
+TXN-3339-929,25-03-2025 23:57,Tesla Inc.,UK,Cayman National Bank,World Health Organization,Russia,Swiss National Bank,"$3,748,043 ETH",Cryptocurrency,Completed,Corporation,NGO,0.1
+TXN-5540-904,25-03-2025 23:57,World Health Organization,USA,Deutsche Bank,Greenpeace,UK,HSBC,"$4,038,377 USD",Cryptocurrency,Rejected,NGO,NGO,0.1
+TXN-8256-846,25-03-2025 23:57,JP Morgan Chase,Germany,Deutsche Bank,Tesla Inc.,British Virgin Islands,JP Morgan Chase,"$2,032,262 BTC",SWIFT,Under Review,Corporation,Corporation,0.1
+TXN-5768-644,25-03-2025 23:57,Crypto Exchange Ltd,British Virgin Islands,Deutsche Bank,Panama Offshore Holdings,China,HSBC,"$3,740,430 BTC",SWIFT,Pending,Shell Company,Shell Company,1.0
+TXN-2560-370,25-03-2025 23:57,Tesla Inc.,USA,JP Morgan Chase,Goldman Sachs,Russia,Deutsche Bank,"$1,667,377 GBP",Cheque,Rejected,Corporation,Corporation,0.1
+TXN-2890-882,25-03-2025 23:57,Hawala Network Inc,China,JP Morgan Chase,United Nations,Russia,Cayman National Bank,"$4,043,170 GBP",Cheque,Pending,Shell Company,Government Organization,0.9500000000000001
+TXN-8433-337,25-03-2025 23:57,Rostec,USA,Deutsche Bank,Panama Offshore Holdings,Switzerland,Cayman National Bank,"$89,139 USD",SWIFT,Under Review,Shell Company,Shell Company,1.0
+TXN-8522-674,25-03-2025 23:57,Oxfam International,Cayman Islands,Deutsche Bank,Red Cross,Cayman Islands,HSBC,"$1,168,738 BTC",Cheque,Completed,NGO,NGO,0.1
+TXN-9469-792,25-03-2025 23:57,Gazprom,Switzerland,Swiss National Bank,Greenpeace,USA,HSBC,"$4,310,779 BTC",Cheque,Completed,Corporation,NGO,0.1
+TXN-4468-902,25-03-2025 23:57,ExxonMobil,Russia,Cayman National Bank,HSBC Holdings,Switzerland,HSBC,"$340,573 ETH",Wire Transfer,Completed,Corporation,Corporation,0.1
+TXN-1242-367,25-03-2025 23:57,ABC Offshore Services,China,Cayman National Bank,Red Cross,Cayman Islands,Cayman National Bank,"$4,085,164 GBP",Wire Transfer,Pending,Shell Company,NGO,0.9500000000000001
+TXN-5313-266,25-03-2025 23:57,JP Morgan Chase,USA,HSBC,JP Morgan Chase,Switzerland,HSBC,"$2,043,586 GBP",SWIFT,Pending,Corporation,Corporation,0.1
+TXN-4249-682,25-03-2025 23:57,Panama Offshore Holdings,Germany,Swiss National Bank,Oxfam International,UK,Deutsche Bank,"$2,255,747 BTC",Cheque,Under Review,Shell Company,NGO,0.9500000000000001
+TXN-9922-253,25-03-2025 23:57,Shell Trading Ltd,Cayman Islands,Swiss National Bank,Panama Offshore Holdings,British Virgin Islands,Cayman National Bank,"$1,858,903 BTC",Cheque,Rejected,Corporation,Shell Company,0.9500000000000001
+TXN-3391-614,25-03-2025 23:57,Tesla Inc.,British Virgin Islands,Cayman National Bank,BlackRock,British Virgin Islands,HSBC,"$3,125,266 ETH",Cryptocurrency,Completed,Corporation,Shell Company,0.9500000000000001
+TXN-5673-986,25-03-2025 23:57,Crypto Exchange Ltd,Germany,Swiss National Bank,Oxfam International,British Virgin Islands,Deutsche Bank,"$3,945,183 ETH",Wire Transfer,Rejected,Shell Company,NGO,0.9500000000000001
+TXN-2456-540,25-03-2025 23:57,Gazprom,British Virgin Islands,Deutsche Bank,Oxfam International,Switzerland,JP Morgan Chase,"$388,541 BTC",Cryptocurrency,Pending,Corporation,NGO,0.1
+TXN-1965-886,25-03-2025 23:57,Greenpeace,China,Swiss National Bank,HSBC Holdings,USA,JP Morgan Chase,"$359,869 BTC",SWIFT,Under Review,NGO,Corporation,0.1
+TXN-9412-816,25-03-2025 23:57,Red Cross,Switzerland,Cayman National Bank,World Health Organization,UK,Cayman National Bank,"$4,173,908 ETH",Cryptocurrency,Rejected,NGO,NGO,0.1
+TXN-9843-122,25-03-2025 23:57,Goldman Sachs,USA,Deutsche Bank,United Nations,Germany,Deutsche Bank,"$2,572,090 EUR",SWIFT,Rejected,Corporation,Government Organization,0.1
+TXN-5210-308,25-03-2025 23:57,ExxonMobil,Russia,Deutsche Bank,BlackRock,USA,JP Morgan Chase,"$3,505,312 GBP",Wire Transfer,Under Review,Corporation,Shell Company,0.9500000000000001
+TXN-9494-291,25-03-2025 23:57,Vladimir Putin,British Virgin Islands,JP Morgan Chase,United Nations,Russia,JP Morgan Chase,"$2,204,269 ETH",Cryptocurrency,Under Review,PEP,Government Organization,0.9000000000000001
+TXN-3502-179,25-03-2025 23:57,Goldman Sachs,Panama,JP Morgan Chase,JP Morgan Chase,UK,Deutsche Bank,"$4,791,317 ETH",Cryptocurrency,Completed,Corporation,Corporation,0.8
+TXN-2077-376,25-03-2025 23:57,Tesla Inc.,UK,Swiss National Bank,Tesla Inc.,UK,JP Morgan Chase,"$396,752 EUR",Wire Transfer,Pending,Corporation,Corporation,0.1
+TXN-7973-749,25-03-2025 23:57,Gazprom,UK,Cayman National Bank,Oxfam International,UK,HSBC,"$4,774,354 ETH",Wire Transfer,Pending,Corporation,NGO,0.1
+TXN-7902-480,25-03-2025 23:57,Oxfam International,UK,JP Morgan Chase,HSBC Holdings,Panama,JP Morgan Chase,"$2,652,178 EUR",Cryptocurrency,Completed,NGO,Corporation,0.8
+TXN0075,25-03-2025 23:57,ExxonMobil,USA,Cayman National Bank,Oxfam International,UK,JP Morgan Chase,"$3,253,792",Wire Transfer,Rejected,Corporation,NGO,0.1

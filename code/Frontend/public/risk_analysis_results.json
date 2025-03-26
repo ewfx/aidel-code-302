@@ -1,0 +1,1628 @@
+[
+    {
+        "Transaction ID": "TXN-5511-370",
+        "Extracted Entity": [
+            "Rostec",
+            "Greenpeace"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "NGO"
+        ],
+        "Risk Score": 0.95,
+        "Supporting Evidence": [
+            "Sender 'Rostec' found in OFAC SDN List (Very High Risk)",
+            "Sender is a Shell Company - High Risk",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-5819-307",
+        "Extracted Entity": [
+            "ABC Offshore Services",
+            "ExxonMobil"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Corporation"
+        ],
+        "Risk Score": 0.95,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-3005-385",
+        "Extracted Entity": [
+            "Vladimir Putin",
+            "JP Morgan Chase"
+        ],
+        "Entity Type": [
+            "PEP",
+            "Corporation"
+        ],
+        "Risk Score": 0.84,
+        "Supporting Evidence": [
+            "Sender is a Politically Exposed Person (PEP) - Very High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-5523-237",
+        "Extracted Entity": [
+            "North Korea Trading Corporation",
+            "Oxfam International"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "NGO"
+        ],
+        "Risk Score": 0.93,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-3771-928",
+        "Extracted Entity": [
+            "BlackRock",
+            "Shell Trading Ltd"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Corporation"
+        ],
+        "Risk Score": 0.91,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-1533-499",
+        "Extracted Entity": [
+            "Vladimir Putin",
+            "United Nations"
+        ],
+        "Entity Type": [
+            "PEP",
+            "Government Organization"
+        ],
+        "Risk Score": 0.8,
+        "Supporting Evidence": [
+            "Sender is a Politically Exposed Person (PEP) - Very High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-7791-810",
+        "Extracted Entity": [
+            "Crypto Exchange Ltd",
+            "Goldman Sachs"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Corporation"
+        ],
+        "Risk Score": 1.0,
+        "Supporting Evidence": [
+            "Sender Country 'Panama' is in FATF Grey List (Moderate Risk)",
+            "Sender is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-1243-762",
+        "Extracted Entity": [
+            "Tesla Inc.",
+            "JP Morgan Chase"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.1,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-8557-540",
+        "Extracted Entity": [
+            "Goldman Sachs",
+            "Goldman Sachs"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.14,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-5872-573",
+        "Extracted Entity": [
+            "North Korea Trading Corporation",
+            "Panama Offshore Holdings"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Shell Company"
+        ],
+        "Risk Score": 0.98,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk",
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-1532-270",
+        "Extracted Entity": [
+            "Greenpeace",
+            "Red Cross"
+        ],
+        "Entity Type": [
+            "NGO",
+            "NGO"
+        ],
+        "Risk Score": 0.17,
+        "Supporting Evidence": [
+            "Sender is a NGO - Moderate Risk",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-1725-888",
+        "Extracted Entity": [
+            "Rostec",
+            "Tesla Inc."
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Corporation"
+        ],
+        "Risk Score": 0.95,
+        "Supporting Evidence": [
+            "Sender 'Rostec' found in OFAC SDN List (Very High Risk)",
+            "Sender is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9433-154",
+        "Extracted Entity": [
+            "United Nations",
+            "Goldman Sachs"
+        ],
+        "Entity Type": [
+            "Government Organization",
+            "Corporation"
+        ],
+        "Risk Score": 0.31,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-5690-556",
+        "Extracted Entity": [
+            "Goldman Sachs",
+            "ExxonMobil"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.77,
+        "Supporting Evidence": [
+            "Sender Country 'Panama' is in FATF Grey List (Moderate Risk)"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-6461-360",
+        "Extracted Entity": [
+            "BlackRock",
+            "Rothschild & Co"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Corporation"
+        ],
+        "Risk Score": 0.98,
+        "Supporting Evidence": [
+            "Sender Country 'Panama' is in FATF Grey List (Moderate Risk)",
+            "Sender is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-6118-748",
+        "Extracted Entity": [
+            "Shell Holdings Ltd",
+            "Oxfam International"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "NGO"
+        ],
+        "Risk Score": 0.19,
+        "Supporting Evidence": [
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9730-836",
+        "Extracted Entity": [
+            "North Korea Trading Corporation",
+            "BlackRock"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Shell Company"
+        ],
+        "Risk Score": 1.0,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk",
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-8305-146",
+        "Extracted Entity": [
+            "United Nations",
+            "HSBC Holdings"
+        ],
+        "Entity Type": [
+            "Government Organization",
+            "Corporation"
+        ],
+        "Risk Score": 0.25,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-8395-938",
+        "Extracted Entity": [
+            "ABC Offshore Services",
+            "United Nations"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Government Organization"
+        ],
+        "Risk Score": 0.93,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-8612-267",
+        "Extracted Entity": [
+            "Crypto Exchange Ltd",
+            "HSBC Holdings"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Corporation"
+        ],
+        "Risk Score": 0.95,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-3198-459",
+        "Extracted Entity": [
+            "Rothschild & Co",
+            "Red Cross"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "NGO"
+        ],
+        "Risk Score": 0.14,
+        "Supporting Evidence": [
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-5917-648",
+        "Extracted Entity": [
+            "United Nations",
+            "Red Cross"
+        ],
+        "Entity Type": [
+            "Government Organization",
+            "NGO"
+        ],
+        "Risk Score": 0.6,
+        "Supporting Evidence": [
+            "Receiver Country 'Panama' is in FATF Grey List (Moderate Risk)",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-7120-241",
+        "Extracted Entity": [
+            "Goldman Sachs",
+            "Goldman Sachs"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.1,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-8188-183",
+        "Extracted Entity": [
+            "Red Cross",
+            "World Health Organization"
+        ],
+        "Entity Type": [
+            "NGO",
+            "NGO"
+        ],
+        "Risk Score": 0.16,
+        "Supporting Evidence": [
+            "Sender is a NGO - Moderate Risk",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-1920-874",
+        "Extracted Entity": [
+            "Vladimir Putin",
+            "BlackRock"
+        ],
+        "Entity Type": [
+            "PEP",
+            "Shell Company"
+        ],
+        "Risk Score": 0.98,
+        "Supporting Evidence": [
+            "Sender is a Politically Exposed Person (PEP) - Very High Risk",
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9697-251",
+        "Extracted Entity": [
+            "Panama Offshore Holdings",
+            "ExxonMobil"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Corporation"
+        ],
+        "Risk Score": 1.0,
+        "Supporting Evidence": [
+            "Sender Country 'Panama' is in FATF Grey List (Moderate Risk)",
+            "Receiver Country 'Panama' is in FATF Grey List (Moderate Risk)",
+            "Sender is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-5357-353",
+        "Extracted Entity": [
+            "HSBC Holdings",
+            "ExxonMobil"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.93,
+        "Supporting Evidence": [
+            "Sender Country 'Panama' is in FATF Grey List (Moderate Risk)",
+            "Receiver Country 'Panama' is in FATF Grey List (Moderate Risk)"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-2869-675",
+        "Extracted Entity": [
+            "HSBC Holdings",
+            "Greenpeace"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "NGO"
+        ],
+        "Risk Score": 0.19,
+        "Supporting Evidence": [
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9619-301",
+        "Extracted Entity": [
+            "Goldman Sachs",
+            "HSBC Holdings"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.1,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-4988-870",
+        "Extracted Entity": [
+            "United Nations",
+            "HSBC Holdings"
+        ],
+        "Entity Type": [
+            "Government Organization",
+            "Corporation"
+        ],
+        "Risk Score": 0.64,
+        "Supporting Evidence": [
+            "Receiver Country 'Panama' is in FATF Grey List (Moderate Risk)"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-1600-440",
+        "Extracted Entity": [
+            "Shell Trading Ltd",
+            "ExxonMobil"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.1,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-3004-728",
+        "Extracted Entity": [
+            "Red Cross",
+            "United Nations"
+        ],
+        "Entity Type": [
+            "NGO",
+            "Government Organization"
+        ],
+        "Risk Score": 0.2,
+        "Supporting Evidence": [
+            "Sender is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-7476-549",
+        "Extracted Entity": [
+            "ExxonMobil",
+            "Greenpeace"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "NGO"
+        ],
+        "Risk Score": 0.11,
+        "Supporting Evidence": [
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-6773-561",
+        "Extracted Entity": [
+            "ExxonMobil",
+            "BlackRock"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Shell Company"
+        ],
+        "Risk Score": 0.88,
+        "Supporting Evidence": [
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-5354-460",
+        "Extracted Entity": [
+            "Shell Trading Ltd",
+            "Greenpeace"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "NGO"
+        ],
+        "Risk Score": 0.1,
+        "Supporting Evidence": [
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-6115-698",
+        "Extracted Entity": [
+            "Shell Holdings Ltd",
+            "United Nations"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Government Organization"
+        ],
+        "Risk Score": 0.19,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-2975-761",
+        "Extracted Entity": [
+            "Gazprom",
+            "World Health Organization"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "NGO"
+        ],
+        "Risk Score": 0.12,
+        "Supporting Evidence": [
+            "Sender 'Gazprom' found in OFAC SDN List (Very High Risk)",
+            "Sender 'Gazprom' found in OFAC Non-SDN List (Moderate Risk)",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-7489-602",
+        "Extracted Entity": [
+            "JP Morgan Chase",
+            "Panama Offshore Holdings"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Shell Company"
+        ],
+        "Risk Score": 0.84,
+        "Supporting Evidence": [
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-8365-729",
+        "Extracted Entity": [
+            "Goldman Sachs",
+            "BlackRock"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Shell Company"
+        ],
+        "Risk Score": 0.81,
+        "Supporting Evidence": [
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-2776-390",
+        "Extracted Entity": [
+            "BlackRock",
+            "Oxfam International"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "NGO"
+        ],
+        "Risk Score": 0.95,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-3356-164",
+        "Extracted Entity": [
+            "Hawala Network Inc",
+            "JP Morgan Chase"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Corporation"
+        ],
+        "Risk Score": 0.95,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9482-492",
+        "Extracted Entity": [
+            "Shell Holdings Ltd",
+            "BlackRock"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Shell Company"
+        ],
+        "Risk Score": 0.93,
+        "Supporting Evidence": [
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-3343-944",
+        "Extracted Entity": [
+            "North Korea Trading Corporation",
+            "United Nations"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Government Organization"
+        ],
+        "Risk Score": 0.92,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-4383-409",
+        "Extracted Entity": [
+            "Shell Trading Ltd",
+            "Rothschild & Co"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.11,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-3759-145",
+        "Extracted Entity": [
+            "BlackRock",
+            "United Nations"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Government Organization"
+        ],
+        "Risk Score": 0.96,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-3231-186",
+        "Extracted Entity": [
+            "Tesla Inc.",
+            "ExxonMobil"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.11,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-1409-313",
+        "Extracted Entity": [
+            "BlackRock",
+            "HSBC Holdings"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Corporation"
+        ],
+        "Risk Score": 0.94,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9497-724",
+        "Extracted Entity": [
+            "Panama Offshore Holdings",
+            "Greenpeace"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "NGO"
+        ],
+        "Risk Score": 1.0,
+        "Supporting Evidence": [
+            "Sender Country 'Panama' is in FATF Grey List (Moderate Risk)",
+            "Sender is a Shell Company - High Risk",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-7130-519",
+        "Extracted Entity": [
+            "Goldman Sachs",
+            "Tesla Inc."
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.79,
+        "Supporting Evidence": [
+            "Receiver Country 'Panama' is in FATF Grey List (Moderate Risk)"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-2929-750",
+        "Extracted Entity": [
+            "North Korea Trading Corporation",
+            "Red Cross"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "NGO"
+        ],
+        "Risk Score": 0.94,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-6333-509",
+        "Extracted Entity": [
+            "Rostec",
+            "Rothschild & Co"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Corporation"
+        ],
+        "Risk Score": 1.0,
+        "Supporting Evidence": [
+            "Sender 'Rostec' found in OFAC SDN List (Very High Risk)",
+            "Sender Country 'Panama' is in FATF Grey List (Moderate Risk)",
+            "Sender is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-1501-498",
+        "Extracted Entity": [
+            "Nicolas Maduro",
+            "Tesla Inc."
+        ],
+        "Entity Type": [
+            "PEP",
+            "Corporation"
+        ],
+        "Risk Score": 0.88,
+        "Supporting Evidence": [
+            "Sender is a Politically Exposed Person (PEP) - Very High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-1082-927",
+        "Extracted Entity": [
+            "United Nations",
+            "Panama Offshore Holdings"
+        ],
+        "Entity Type": [
+            "Government Organization",
+            "Shell Company"
+        ],
+        "Risk Score": 0.85,
+        "Supporting Evidence": [
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9242-691",
+        "Extracted Entity": [
+            "Panama Offshore Holdings",
+            "JP Morgan Chase"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Corporation"
+        ],
+        "Risk Score": 0.95,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-6567-429",
+        "Extracted Entity": [
+            "Vladimir Putin",
+            "Greenpeace"
+        ],
+        "Entity Type": [
+            "PEP",
+            "NGO"
+        ],
+        "Risk Score": 0.83,
+        "Supporting Evidence": [
+            "Sender is a Politically Exposed Person (PEP) - Very High Risk",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-3489-827",
+        "Extracted Entity": [
+            "Goldman Sachs",
+            "Tesla Inc."
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.66,
+        "Supporting Evidence": [
+            "Sender Country 'Panama' is in FATF Grey List (Moderate Risk)"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9158-920",
+        "Extracted Entity": [
+            "Goldman Sachs",
+            "United Nations"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Government Organization"
+        ],
+        "Risk Score": 0.71,
+        "Supporting Evidence": [
+            "Sender Country 'Panama' is in FATF Grey List (Moderate Risk)"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-7097-262",
+        "Extracted Entity": [
+            "Gazprom",
+            "Rothschild & Co"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.12,
+        "Supporting Evidence": [
+            "Sender 'Gazprom' found in OFAC SDN List (Very High Risk)",
+            "Sender 'Gazprom' found in OFAC Non-SDN List (Moderate Risk)"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9443-220",
+        "Extracted Entity": [
+            "ABC Offshore Services",
+            "Panama Offshore Holdings"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Shell Company"
+        ],
+        "Risk Score": 0.99,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk",
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9490-570",
+        "Extracted Entity": [
+            "Oxfam International",
+            "Greenpeace"
+        ],
+        "Entity Type": [
+            "NGO",
+            "NGO"
+        ],
+        "Risk Score": 0.2,
+        "Supporting Evidence": [
+            "Sender is a NGO - Moderate Risk",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-3971-890",
+        "Extracted Entity": [
+            "Hawala Network Inc",
+            "Red Cross"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "NGO"
+        ],
+        "Risk Score": 0.93,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9200-360",
+        "Extracted Entity": [
+            "Rothschild & Co",
+            "United Nations"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Government Organization"
+        ],
+        "Risk Score": 0.19,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-5161-216",
+        "Extracted Entity": [
+            "Red Cross",
+            "Panama Offshore Holdings"
+        ],
+        "Entity Type": [
+            "NGO",
+            "Shell Company"
+        ],
+        "Risk Score": 0.88,
+        "Supporting Evidence": [
+            "Sender is a NGO - Moderate Risk",
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-6878-787",
+        "Extracted Entity": [
+            "Red Cross",
+            "Goldman Sachs"
+        ],
+        "Entity Type": [
+            "NGO",
+            "Corporation"
+        ],
+        "Risk Score": 0.14,
+        "Supporting Evidence": [
+            "Sender is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-4123-416",
+        "Extracted Entity": [
+            "Hawala Network Inc",
+            "Rothschild & Co"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Corporation"
+        ],
+        "Risk Score": 0.93,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-7269-779",
+        "Extracted Entity": [
+            "Panama Offshore Holdings",
+            "Oxfam International"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "NGO"
+        ],
+        "Risk Score": 0.95,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-4586-530",
+        "Extracted Entity": [
+            "Hawala Network Inc",
+            "BlackRock"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Shell Company"
+        ],
+        "Risk Score": 0.99,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk",
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-8997-973",
+        "Extracted Entity": [
+            "JP Morgan Chase",
+            "BlackRock"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Shell Company"
+        ],
+        "Risk Score": 0.88,
+        "Supporting Evidence": [
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-1039-473",
+        "Extracted Entity": [
+            "Red Cross",
+            "Goldman Sachs"
+        ],
+        "Entity Type": [
+            "NGO",
+            "Corporation"
+        ],
+        "Risk Score": 0.18,
+        "Supporting Evidence": [
+            "Sender is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9916-154",
+        "Extracted Entity": [
+            "HSBC Holdings",
+            "ExxonMobil"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.1,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-1960-193",
+        "Extracted Entity": [
+            "HSBC Holdings",
+            "Rothschild & Co"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.1,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9385-916",
+        "Extracted Entity": [
+            "Panama Offshore Holdings",
+            "Goldman Sachs"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Corporation"
+        ],
+        "Risk Score": 1.0,
+        "Supporting Evidence": [
+            "Sender Country 'Panama' is in FATF Grey List (Moderate Risk)",
+            "Sender is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-5825-449",
+        "Extracted Entity": [
+            "Greenpeace",
+            "ExxonMobil"
+        ],
+        "Entity Type": [
+            "NGO",
+            "Corporation"
+        ],
+        "Risk Score": 0.25,
+        "Supporting Evidence": [
+            "Sender is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-1646-126",
+        "Extracted Entity": [
+            "ExxonMobil",
+            "Panama Offshore Holdings"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Shell Company"
+        ],
+        "Risk Score": 0.81,
+        "Supporting Evidence": [
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-3339-929",
+        "Extracted Entity": [
+            "Tesla Inc.",
+            "World Health Organization"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "NGO"
+        ],
+        "Risk Score": 0.2,
+        "Supporting Evidence": [
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-5540-904",
+        "Extracted Entity": [
+            "World Health Organization",
+            "Greenpeace"
+        ],
+        "Entity Type": [
+            "NGO",
+            "NGO"
+        ],
+        "Risk Score": 0.2,
+        "Supporting Evidence": [
+            "Sender is a NGO - Moderate Risk",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-8256-846",
+        "Extracted Entity": [
+            "JP Morgan Chase",
+            "Tesla Inc."
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.13,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-5768-644",
+        "Extracted Entity": [
+            "Crypto Exchange Ltd",
+            "Panama Offshore Holdings"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Shell Company"
+        ],
+        "Risk Score": 0.99,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk",
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-2560-370",
+        "Extracted Entity": [
+            "Tesla Inc.",
+            "Goldman Sachs"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.12,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-2890-882",
+        "Extracted Entity": [
+            "Hawala Network Inc",
+            "United Nations"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Government Organization"
+        ],
+        "Risk Score": 0.93,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-8433-337",
+        "Extracted Entity": [
+            "Rostec",
+            "Panama Offshore Holdings"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "Shell Company"
+        ],
+        "Risk Score": 0.99,
+        "Supporting Evidence": [
+            "Sender 'Rostec' found in OFAC SDN List (Very High Risk)",
+            "Sender is a Shell Company - High Risk",
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-8522-674",
+        "Extracted Entity": [
+            "Oxfam International",
+            "Red Cross"
+        ],
+        "Entity Type": [
+            "NGO",
+            "NGO"
+        ],
+        "Risk Score": 0.18,
+        "Supporting Evidence": [
+            "Sender is a NGO - Moderate Risk",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9469-792",
+        "Extracted Entity": [
+            "Gazprom",
+            "Greenpeace"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "NGO"
+        ],
+        "Risk Score": 0.11,
+        "Supporting Evidence": [
+            "Sender 'Gazprom' found in OFAC SDN List (Very High Risk)",
+            "Sender 'Gazprom' found in OFAC Non-SDN List (Moderate Risk)",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-4468-902",
+        "Extracted Entity": [
+            "ExxonMobil",
+            "HSBC Holdings"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.12,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-1242-367",
+        "Extracted Entity": [
+            "ABC Offshore Services",
+            "Red Cross"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "NGO"
+        ],
+        "Risk Score": 0.94,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-5313-266",
+        "Extracted Entity": [
+            "JP Morgan Chase",
+            "JP Morgan Chase"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.17,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-4249-682",
+        "Extracted Entity": [
+            "Panama Offshore Holdings",
+            "Oxfam International"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "NGO"
+        ],
+        "Risk Score": 0.94,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9922-253",
+        "Extracted Entity": [
+            "Shell Trading Ltd",
+            "Panama Offshore Holdings"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Shell Company"
+        ],
+        "Risk Score": 0.8,
+        "Supporting Evidence": [
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-3391-614",
+        "Extracted Entity": [
+            "Tesla Inc.",
+            "BlackRock"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Shell Company"
+        ],
+        "Risk Score": 0.9,
+        "Supporting Evidence": [
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-5673-986",
+        "Extracted Entity": [
+            "Crypto Exchange Ltd",
+            "Oxfam International"
+        ],
+        "Entity Type": [
+            "Shell Company",
+            "NGO"
+        ],
+        "Risk Score": 0.93,
+        "Supporting Evidence": [
+            "Sender is a Shell Company - High Risk",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-2456-540",
+        "Extracted Entity": [
+            "Gazprom",
+            "Oxfam International"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "NGO"
+        ],
+        "Risk Score": 0.22,
+        "Supporting Evidence": [
+            "Sender 'Gazprom' found in OFAC SDN List (Very High Risk)",
+            "Sender 'Gazprom' found in OFAC Non-SDN List (Moderate Risk)",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-1965-886",
+        "Extracted Entity": [
+            "Greenpeace",
+            "HSBC Holdings"
+        ],
+        "Entity Type": [
+            "NGO",
+            "Corporation"
+        ],
+        "Risk Score": 0.16,
+        "Supporting Evidence": [
+            "Sender is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9412-816",
+        "Extracted Entity": [
+            "Red Cross",
+            "World Health Organization"
+        ],
+        "Entity Type": [
+            "NGO",
+            "NGO"
+        ],
+        "Risk Score": 0.14,
+        "Supporting Evidence": [
+            "Sender is a NGO - Moderate Risk",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9843-122",
+        "Extracted Entity": [
+            "Goldman Sachs",
+            "United Nations"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Government Organization"
+        ],
+        "Risk Score": 0.15,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-5210-308",
+        "Extracted Entity": [
+            "ExxonMobil",
+            "BlackRock"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Shell Company"
+        ],
+        "Risk Score": 0.92,
+        "Supporting Evidence": [
+            "Receiver is a Shell Company - High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-9494-291",
+        "Extracted Entity": [
+            "Vladimir Putin",
+            "United Nations"
+        ],
+        "Entity Type": [
+            "PEP",
+            "Government Organization"
+        ],
+        "Risk Score": 0.82,
+        "Supporting Evidence": [
+            "Sender is a Politically Exposed Person (PEP) - Very High Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-3502-179",
+        "Extracted Entity": [
+            "Goldman Sachs",
+            "JP Morgan Chase"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.68,
+        "Supporting Evidence": [
+            "Sender Country 'Panama' is in FATF Grey List (Moderate Risk)"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-2077-376",
+        "Extracted Entity": [
+            "Tesla Inc.",
+            "Tesla Inc."
+        ],
+        "Entity Type": [
+            "Corporation",
+            "Corporation"
+        ],
+        "Risk Score": 0.12,
+        "Supporting Evidence": [],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-7973-749",
+        "Extracted Entity": [
+            "Gazprom",
+            "Oxfam International"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "NGO"
+        ],
+        "Risk Score": 0.13,
+        "Supporting Evidence": [
+            "Sender 'Gazprom' found in OFAC SDN List (Very High Risk)",
+            "Sender 'Gazprom' found in OFAC Non-SDN List (Moderate Risk)",
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN-7902-480",
+        "Extracted Entity": [
+            "Oxfam International",
+            "HSBC Holdings"
+        ],
+        "Entity Type": [
+            "NGO",
+            "Corporation"
+        ],
+        "Risk Score": 0.75,
+        "Supporting Evidence": [
+            "Receiver Country 'Panama' is in FATF Grey List (Moderate Risk)",
+            "Sender is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    },
+    {
+        "Transaction ID": "TXN0075",
+        "Extracted Entity": [
+            "ExxonMobil",
+            "Oxfam International"
+        ],
+        "Entity Type": [
+            "Corporation",
+            "NGO"
+        ],
+        "Risk Score": 0.12,
+        "Supporting Evidence": [
+            "Receiver is a NGO - Moderate Risk"
+        ],
+        "Confidence Score": 0.95
+    }
+]

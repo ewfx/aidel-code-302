@@ -1,0 +1,5 @@
+Blocked Person X owns 50 percent of Entity Ar
+and antity A owns 50 percent of Entity
+B. Entity B is blocked as person X owns,
+Indirectly, significant part of Entity B. ta
+addition, Blocked Person X's 50 percent ownership of Entity A makes Entity A, a blocked entity. Entity A's 50 percent ownership of Entity B in turn makes Entity B too, a blocked entity.
