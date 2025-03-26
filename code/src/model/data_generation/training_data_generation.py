@@ -1,10 +1,10 @@
 import pandas as pd
 import random
 
-# ✅ Define categories
+#  Define categories
 categories = ["Shell Company", "Government Organization", "NGO", "Corporation", "PEP"]
 
-# ✅ Example name structures for each category
+#  Example name structures for each category
 category_examples = {
     "Shell Company": [
         "Panama Holdings Ltd", "Caribbean Finance Inc.", "Bahamas Investments Group", "Cayman Trust Fund",
@@ -31,16 +31,16 @@ category_examples = {
     ]
 }
 
-# ✅ Generate 500 unique names per category
+#  Generate 500 unique names per category
 labeled_data = []
 for category, example_names in category_examples.items():
     for i in range(500):
         entity_name = random.choice(example_names) + f" {random.randint(10, 9999)}"
         labeled_data.append((entity_name, category))
 
-# ✅ Convert to DataFrame
+#  Convert to DataFrame
 df_labeled = pd.DataFrame(labeled_data, columns=["Entity Name", "Category"])
 
-# ✅ Save to CSV
+#  Save to CSV
 df_labeled.to_csv("labeled_training_data.csv", index=False)
-print("✅ Labeled training data saved as labeled_training_data.csv")
+print(" Labeled training data saved as labeled_training_data.csv")

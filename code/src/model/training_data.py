@@ -49,16 +49,16 @@ def calculate_risk(row, sdn_df, world_bank_df, non_sdn_df):
 def generate_training_data():
     """Create dataset with calculated risk scores."""
     # Load datasets
-    transactions_df = pd.read_csv("data/rsk_score_training_data.csv")
-    sdn_df = pd.read_csv("data/alt.csv")
-    world_bank_df = pd.read_excel("data/Sanctioned individuals and firms.xlsx")
-    non_sdn_df = pd.read_csv("data/non-sdn.csv")
+    transactions_df = pd.read_csv("data/input_data/rsk_score_training_data.csv")
+    sdn_df = pd.read_csv("data/dataset/alt.csv")
+    world_bank_df = pd.read_excel("data/dataset/Sanctioned individuals and firms.xlsx")
+    non_sdn_df = pd.read_csv("data/dataset/non-sdn.csv")
 
     # Calculate risk scores
     transactions_df["Risk Score"] = transactions_df.apply(lambda row: calculate_risk(row, sdn_df, world_bank_df, non_sdn_df), axis=1)
 
     # Save new dataset
-    transactions_df.to_csv("data/training_data.csv", index=False)
+    transactions_df.to_csv("data/training_data/training_data.csv", index=False)
     print("Training data with risk scores saved!")
 
 generate_training_data()

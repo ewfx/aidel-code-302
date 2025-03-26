@@ -6,14 +6,14 @@ import json
 
 fake = Faker()
 
-# ✅ Realistic High-Risk Entities (From Sanctions Lists & Financial Crimes Databases)
+#  Realistic High-Risk Entities (From Sanctions Lists & Financial Crimes Databases)
 high_risk_entities = [
     "Gazprom", "Rostec", "North Korea Trading Corporation",
     "Vladimir Putin", "Nicolas Maduro", "Shell Holdings Ltd",
     "ABC Offshore Services", "Crypto Exchange Ltd", "Hawala Network Inc"
 ]
 
-# ✅ Realistic Government Organizations, NGOs, Corporations, and PEPs
+#  Realistic Government Organizations, NGOs, Corporations, and PEPs
 entity_names = [
     "United Nations", "World Health Organization", "Red Cross",
     "Tesla Inc.", "Goldman Sachs", "HSBC Holdings", "JP Morgan Chase",
@@ -21,24 +21,24 @@ entity_names = [
     "Panama Offshore Holdings", "Rothschild & Co", "Oxfam International"
 ]
 
-# ✅ Realistic Banks
+#  Realistic Banks
 banks = ["Swiss National Bank", "Cayman National Bank", "Deutsche Bank", "HSBC", "JP Morgan Chase"]
 
-# ✅ High-Risk & Common Financial Hubs
+#  High-Risk & Common Financial Hubs
 countries = ["Switzerland", "Cayman Islands", "Germany", "USA", "UK", "Panama", "British Virgin Islands", "Russia", "China"]
 
-# ✅ Currencies & Transaction Types
+#  Currencies & Transaction Types
 currencies = ["USD", "EUR", "GBP", "BTC", "ETH"]
 transaction_types = ["Wire Transfer", "SWIFT", "Cryptocurrency", "Cheque"]
 
-# ✅ Transaction Statuses
+#  Transaction Statuses
 statuses = ["Completed", "Pending", "Rejected", "Under Review"]
 
-# ✅ Additional Data for Risk Analysis
+#  Additional Data for Risk Analysis
 ip_addresses = ["192.168.29.183", "203.45.67.22", "180.76.76.50", "102.56.12.34"]
 risk_flags = ["OFAC Sanctions Match", "High-Risk Country", "Politically Exposed Person (PEP)", "No Red Flags"]
 
-# ✅ Generate Sample Structured Data
+#  Generate Sample Structured Data
 structured_data = []
 for i in range(100):  # Generate 100 transactions
     structured_data.append([
@@ -55,7 +55,7 @@ for i in range(100):  # Generate 100 transactions
         random.choice(statuses)  # Status
     ])
 
-# ✅ Create DataFrame & Save as CSV
+#  Create DataFrame & Save as CSV
 df_structured = pd.DataFrame(structured_data, columns=[
     "Transaction ID", "Date", "Sender Name", "Sender Country", "Sender Bank",
     "Receiver Name", "Receiver Country", "Receiver Bank", "Transaction Details",
@@ -64,7 +64,7 @@ df_structured = pd.DataFrame(structured_data, columns=[
 df_structured.to_csv("structured_data.csv", index=False)
 print("Structured data saved to structured_data.csv")
 
-# ✅ Function to Generate Realistic Unstructured Data
+#  Function to Generate Realistic Unstructured Data
 def generate_transaction():
     sender = random.choice(high_risk_entities + entity_names)
     receiver = random.choice(entity_names)
@@ -112,12 +112,12 @@ def generate_transaction():
     }
     return transaction
 
-# ✅ Generate Unstructured Data and Save as JSON
+#  Generate Unstructured Data and Save as JSON
 def generate_unstructured_data(file_name="unstructured_transactions.json", num_records=100):
     data = [generate_transaction() for _ in range(num_records)]
     with open(file_name, "w") as file:
         json.dump(data, file, indent=4)
     print(f"Generated {num_records} unstructured transactions and saved to {file_name}")
 
-# ✅ Run the Script
+#  Run the Script
 generate_unstructured_data()

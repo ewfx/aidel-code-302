@@ -6,14 +6,14 @@ def assign_risk_score():
 
     # Load datasets
     def load_datasets():
-        transactions_df = pd.read_csv("data/processed_output_with_new_category.csv")
-        sdn_df = pd.read_csv("data/alt.csv")
-        world_bank_df = pd.read_excel("data/Sanctioned individuals and firms.xlsx")
-        non_sdn_df = pd.read_csv("data/non-sdn.csv")
+        transactions_df = pd.read_csv("data/output_data/processed_output_with_predictions.csv")
+        sdn_df = pd.read_csv("data/dataset/alt.csv")
+        world_bank_df = pd.read_excel("data/dataset/Sanctioned individuals and firms.xlsx")
+        non_sdn_df = pd.read_csv("data/dataset/non-sdn.csv")
         return transactions_df, sdn_df, world_bank_df, non_sdn_df
 
     # Load trained model
-    model = joblib.load("models/risk_score_model.pkl")
+    model = joblib.load("results/risk_score_model.pkl")
 
     def predict_risk(transaction):
         """Use trained model to predict risk score."""
@@ -127,7 +127,7 @@ def assign_risk_score():
 
     # Run risk analysis and save to JSON
     risk_analysis_results = process_transactions()
-    output_path = "data/risk_analysis_results.json"
+    output_path = "data/output_data/risk_analysis_results.json"
     with open(output_path, "w") as json_file:
         json.dump(risk_analysis_results, json_file, indent=4)
 

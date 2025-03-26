@@ -69,14 +69,7 @@ const App = () => {
         }}
       >
         <Navbar />
-        {/* <Box sx={{ textAlign: "left", width: "100%", padding: "0px" }}>
-        <FileUpload onFileUpload={handleFileUpload} />
-      </Box>
-      {transactions.length > 0 && (
-        <Box sx={{ mt: 0, width: "90%", textAlign: "left", padding: "0px" ,margin:"0px"}}>
-          <TransactionTable transactions={transactions} />
-        </Box>
-      )} */}
+
       <Box
   component="main"
   sx={{
