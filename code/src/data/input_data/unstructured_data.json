@@ -1,0 +1,3002 @@
+[
+    {
+        "Transaction ID": "TXN-5511-370",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Rostec",
+            "Country": "UK",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 410805 981241 390523",
+            "Address": "156 Rue de Commerce, UK",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "Greenpeace",
+            "Country": "Cayman Islands",
+            "Bank": "HSBC",
+            "Account": "IBAN 914829 692881 410312",
+            "Address": "496 Main Street, Cayman Islands",
+            "Tax ID": "TX-4018"
+        },
+        "Amount": "$865,766 BTC",
+        "Transaction Type": "Cheque",
+        "Status": "Rejected",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 736-3444",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in Russia",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-5819-307",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "ABC Offshore Services",
+            "Country": "UK",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 709435 710251 406472",
+            "Address": "136 Rue de Commerce, UK",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "ExxonMobil",
+            "Country": "Cayman Islands",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 892627 535722 556489",
+            "Address": "405 Main Street, Cayman Islands",
+            "Tax ID": "TX-6617"
+        },
+        "Amount": "$1,226,361 USD",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Completed",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 672-2546",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in USA",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-3005-385",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Vladimir Putin",
+            "Country": "Switzerland",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 503201 635437 656160",
+            "Address": "875 Rue de Marche, Switzerland",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "JP Morgan Chase",
+            "Country": "USA",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 849733 857747 773704",
+            "Address": "905 Main Street, USA",
+            "Tax ID": "TX-1728"
+        },
+        "Amount": "$1,724,345 GBP",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Under Review",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 676-7181",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in USA",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-5523-237",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "North Korea Trading Corporation",
+            "Country": "Switzerland",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 449909 707260 667872",
+            "Address": "814 Rue de Finance, Switzerland",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Oxfam International",
+            "Country": "China",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 867844 128471 406282",
+            "Address": "296 Main Street, China",
+            "Tax ID": "TX-7832"
+        },
+        "Amount": "$2,125,575 BTC",
+        "Transaction Type": "SWIFT",
+        "Status": "Under Review",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 181-3700",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in Germany",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-3771-928",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "BlackRock",
+            "Country": "Russia",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 939030 761014 218065",
+            "Address": "155 Rue de Finance, Russia",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Shell Trading Ltd",
+            "Country": "USA",
+            "Bank": "HSBC",
+            "Account": "IBAN 813858 764055 857354",
+            "Address": "241 Main Street, USA",
+            "Tax ID": "TX-7249"
+        },
+        "Amount": "$4,215,624 EUR",
+        "Transaction Type": "SWIFT",
+        "Status": "Completed",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 643-6189",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in USA",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-1533-499",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Vladimir Putin",
+            "Country": "USA",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 885561 330268 718290",
+            "Address": "129 Rue de Marche, USA",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "United Nations",
+            "Country": "UK",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 720693 324421 963525",
+            "Address": "221 Main Street, UK",
+            "Tax ID": "TX-3636"
+        },
+        "Amount": "$1,455,756 ETH",
+        "Transaction Type": "SWIFT",
+        "Status": "Completed",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 496-2573",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in Switzerland",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-7791-810",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Crypto Exchange Ltd",
+            "Country": "Panama",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 809726 326663 429870",
+            "Address": "988 Rue de Finance, Panama",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "Goldman Sachs",
+            "Country": "China",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 981657 165320 169023",
+            "Address": "364 Main Street, China",
+            "Tax ID": "TX-8809"
+        },
+        "Amount": "$2,734,148 EUR",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Rejected",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 452-4612",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Russia",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-1243-762",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Tesla Inc.",
+            "Country": "USA",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 827293 624635 316435",
+            "Address": "498 Rue de Marche, USA",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "JP Morgan Chase",
+            "Country": "British Virgin Islands",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 621759 198205 619064",
+            "Address": "223 Main Street, British Virgin Islands",
+            "Tax ID": "TX-4852"
+        },
+        "Amount": "$950,082 ETH",
+        "Transaction Type": "SWIFT",
+        "Status": "Under Review",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 618-3419",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Germany",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-8557-540",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Goldman Sachs",
+            "Country": "Russia",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 444319 878609 242556",
+            "Address": "463 Rue de Finance, Russia",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "Goldman Sachs",
+            "Country": "Russia",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 654288 376232 136076",
+            "Address": "570 Main Street, Russia",
+            "Tax ID": "TX-2945"
+        },
+        "Amount": "$664,148 EUR",
+        "Transaction Type": "SWIFT",
+        "Status": "Pending",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 628-2366",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in Russia",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-5872-573",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "North Korea Trading Corporation",
+            "Country": "Cayman Islands",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 181149 553718 498298",
+            "Address": "268 Rue de Marche, Cayman Islands",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "Panama Offshore Holdings",
+            "Country": "UK",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 786970 637502 181385",
+            "Address": "453 Main Street, UK",
+            "Tax ID": "TX-9301"
+        },
+        "Amount": "$222,360 BTC",
+        "Transaction Type": "SWIFT",
+        "Status": "Completed",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 343-8445",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in Switzerland",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-1532-270",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Greenpeace",
+            "Country": "China",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 794134 454545 668037",
+            "Address": "435 Rue de Finance, China",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "Red Cross",
+            "Country": "Cayman Islands",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 717323 479184 318138",
+            "Address": "487 Main Street, Cayman Islands",
+            "Tax ID": "TX-8072"
+        },
+        "Amount": "$4,020,444 USD",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Pending",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 448-3334",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in Russia",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-1725-888",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Rostec",
+            "Country": "UK",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 552195 183269 246056",
+            "Address": "490 Rue de Commerce, UK",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "Tesla Inc.",
+            "Country": "Germany",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 837220 935615 864463",
+            "Address": "668 Main Street, Germany",
+            "Tax ID": "TX-4477"
+        },
+        "Amount": "$1,696,126 USD",
+        "Transaction Type": "Cheque",
+        "Status": "Rejected",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 124-5120",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in Panama",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9433-154",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "United Nations",
+            "Country": "Switzerland",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 670258 186775 378714",
+            "Address": "660 Rue de Commerce, Switzerland",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "Goldman Sachs",
+            "Country": "Switzerland",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 321367 350652 282175",
+            "Address": "686 Main Street, Switzerland",
+            "Tax ID": "TX-8241"
+        },
+        "Amount": "$991,469 EUR",
+        "Transaction Type": "SWIFT",
+        "Status": "Pending",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 209-6045",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in China",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-5690-556",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Goldman Sachs",
+            "Country": "Panama",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 356998 203807 396539",
+            "Address": "145 Rue de Marche, Panama",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "ExxonMobil",
+            "Country": "Switzerland",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 105078 430894 815085",
+            "Address": "535 Main Street, Switzerland",
+            "Tax ID": "TX-8997"
+        },
+        "Amount": "$3,828,464 BTC",
+        "Transaction Type": "Cheque",
+        "Status": "Completed",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 211-1263",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in China",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-6461-360",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "BlackRock",
+            "Country": "Panama",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 377170 335756 417091",
+            "Address": "968 Rue de Finance, Panama",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "Rothschild & Co",
+            "Country": "Russia",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 899967 370227 753862",
+            "Address": "321 Main Street, Russia",
+            "Tax ID": "TX-6667"
+        },
+        "Amount": "$4,149,767 ETH",
+        "Transaction Type": "SWIFT",
+        "Status": "Rejected",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 313-8716",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in USA",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-6118-748",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Shell Holdings Ltd",
+            "Country": "China",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 887106 791656 551029",
+            "Address": "400 Rue de Finance, China",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "Oxfam International",
+            "Country": "China",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 763919 150257 151125",
+            "Address": "350 Main Street, China",
+            "Tax ID": "TX-6849"
+        },
+        "Amount": "$4,155,173 BTC",
+        "Transaction Type": "SWIFT",
+        "Status": "Rejected",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 735-3382",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Switzerland",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9730-836",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "North Korea Trading Corporation",
+            "Country": "UK",
+            "Bank": "HSBC",
+            "Account": "IBAN 758540 796163 198610",
+            "Address": "948 Rue de Marche, UK",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "BlackRock",
+            "Country": "USA",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 694595 341892 387888",
+            "Address": "906 Main Street, USA",
+            "Tax ID": "TX-8253"
+        },
+        "Amount": "$3,193,034 BTC",
+        "Transaction Type": "SWIFT",
+        "Status": "Pending",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 224-6389",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in China",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-8305-146",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "United Nations",
+            "Country": "British Virgin Islands",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 453239 350474 336351",
+            "Address": "841 Rue de Marche, British Virgin Islands",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "HSBC Holdings",
+            "Country": "Cayman Islands",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 349987 939704 207067",
+            "Address": "654 Main Street, Cayman Islands",
+            "Tax ID": "TX-2203"
+        },
+        "Amount": "$3,894,786 EUR",
+        "Transaction Type": "Cheque",
+        "Status": "Pending",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 564-1954",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in Germany",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-8395-938",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "ABC Offshore Services",
+            "Country": "Germany",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 309118 319515 344755",
+            "Address": "896 Rue de Marche, Germany",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "United Nations",
+            "Country": "Switzerland",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 121176 788825 350521",
+            "Address": "958 Main Street, Switzerland",
+            "Tax ID": "TX-2635"
+        },
+        "Amount": "$1,831,186 GBP",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Completed",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 761-6299",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in Germany",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-8612-267",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Crypto Exchange Ltd",
+            "Country": "Russia",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 714635 229249 647391",
+            "Address": "663 Rue de Commerce, Russia",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "HSBC Holdings",
+            "Country": "UK",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 884104 774710 253331",
+            "Address": "960 Main Street, UK",
+            "Tax ID": "TX-9174"
+        },
+        "Amount": "$4,845,128 USD",
+        "Transaction Type": "SWIFT",
+        "Status": "Pending",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 761-6307",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in Panama",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-3198-459",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Rothschild & Co",
+            "Country": "China",
+            "Bank": "HSBC",
+            "Account": "IBAN 652515 272202 612419",
+            "Address": "579 Rue de Commerce, China",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "Red Cross",
+            "Country": "UK",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 412646 149228 722008",
+            "Address": "881 Main Street, UK",
+            "Tax ID": "TX-7897"
+        },
+        "Amount": "$3,787,944 USD",
+        "Transaction Type": "SWIFT",
+        "Status": "Under Review",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 546-2519",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in USA",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-5917-648",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "United Nations",
+            "Country": "Cayman Islands",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 227545 968493 293181",
+            "Address": "376 Rue de Finance, Cayman Islands",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Red Cross",
+            "Country": "Panama",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 978608 930228 549640",
+            "Address": "106 Main Street, Panama",
+            "Tax ID": "TX-6482"
+        },
+        "Amount": "$532,732 GBP",
+        "Transaction Type": "Cheque",
+        "Status": "Under Review",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 788-7933",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Germany",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-7120-241",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Goldman Sachs",
+            "Country": "China",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 950293 877951 762840",
+            "Address": "524 Rue de Finance, China",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "Goldman Sachs",
+            "Country": "Cayman Islands",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 594416 916847 976957",
+            "Address": "663 Main Street, Cayman Islands",
+            "Tax ID": "TX-8970"
+        },
+        "Amount": "$2,719,868 EUR",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Rejected",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 190-6547",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in UK",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-8188-183",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Red Cross",
+            "Country": "Switzerland",
+            "Bank": "HSBC",
+            "Account": "IBAN 122544 810176 942261",
+            "Address": "271 Rue de Finance, Switzerland",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "World Health Organization",
+            "Country": "China",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 903851 901609 951223",
+            "Address": "482 Main Street, China",
+            "Tax ID": "TX-1608"
+        },
+        "Amount": "$4,064,664 BTC",
+        "Transaction Type": "SWIFT",
+        "Status": "Rejected",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 692-8419",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in Switzerland",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-1920-874",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Vladimir Putin",
+            "Country": "Russia",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 152321 757961 293546",
+            "Address": "402 Rue de Finance, Russia",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "BlackRock",
+            "Country": "Russia",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 992721 239590 627479",
+            "Address": "440 Main Street, Russia",
+            "Tax ID": "TX-6997"
+        },
+        "Amount": "$4,679,956 USD",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Completed",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 424-3470",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in USA",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9697-251",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Panama Offshore Holdings",
+            "Country": "Panama",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 127407 258092 311114",
+            "Address": "427 Rue de Commerce, Panama",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "ExxonMobil",
+            "Country": "Panama",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 268655 864354 327306",
+            "Address": "306 Main Street, Panama",
+            "Tax ID": "TX-6023"
+        },
+        "Amount": "$4,669,002 GBP",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Completed",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 210-2204",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Cayman Islands",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-5357-353",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "HSBC Holdings",
+            "Country": "Panama",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 187931 141233 915107",
+            "Address": "711 Rue de Commerce, Panama",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "ExxonMobil",
+            "Country": "Panama",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 529321 356468 228609",
+            "Address": "776 Main Street, Panama",
+            "Tax ID": "TX-7861"
+        },
+        "Amount": "$251,679 USD",
+        "Transaction Type": "SWIFT",
+        "Status": "Rejected",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 934-3562",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in Cayman Islands",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-2869-675",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "HSBC Holdings",
+            "Country": "China",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 548250 402904 838276",
+            "Address": "563 Rue de Marche, China",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Greenpeace",
+            "Country": "China",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 708273 292742 567196",
+            "Address": "556 Main Street, China",
+            "Tax ID": "TX-9335"
+        },
+        "Amount": "$2,504,766 EUR",
+        "Transaction Type": "Cheque",
+        "Status": "Pending",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 513-6353",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in UK",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9619-301",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Goldman Sachs",
+            "Country": "China",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 959518 929339 561093",
+            "Address": "146 Rue de Marche, China",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "HSBC Holdings",
+            "Country": "Cayman Islands",
+            "Bank": "HSBC",
+            "Account": "IBAN 578821 330885 572570",
+            "Address": "228 Main Street, Cayman Islands",
+            "Tax ID": "TX-4103"
+        },
+        "Amount": "$2,881,148 ETH",
+        "Transaction Type": "Cheque",
+        "Status": "Pending",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 122-9165",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in USA",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-4988-870",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "United Nations",
+            "Country": "USA",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 168154 587066 595113",
+            "Address": "557 Rue de Marche, USA",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "HSBC Holdings",
+            "Country": "Panama",
+            "Bank": "HSBC",
+            "Account": "IBAN 864645 964111 790268",
+            "Address": "672 Main Street, Panama",
+            "Tax ID": "TX-2241"
+        },
+        "Amount": "$1,933,677 BTC",
+        "Transaction Type": "Cheque",
+        "Status": "Under Review",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 215-9729",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Panama",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-1600-440",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Shell Trading Ltd",
+            "Country": "China",
+            "Bank": "HSBC",
+            "Account": "IBAN 637511 590064 745917",
+            "Address": "349 Rue de Finance, China",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "ExxonMobil",
+            "Country": "Cayman Islands",
+            "Bank": "HSBC",
+            "Account": "IBAN 437316 738219 398994",
+            "Address": "447 Main Street, Cayman Islands",
+            "Tax ID": "TX-7240"
+        },
+        "Amount": "$354,864 USD",
+        "Transaction Type": "SWIFT",
+        "Status": "Pending",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 543-8936",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in Panama",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-3004-728",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Red Cross",
+            "Country": "Germany",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 660043 154646 382126",
+            "Address": "746 Rue de Commerce, Germany",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "United Nations",
+            "Country": "British Virgin Islands",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 656152 922589 461386",
+            "Address": "854 Main Street, British Virgin Islands",
+            "Tax ID": "TX-5712"
+        },
+        "Amount": "$1,562,505 GBP",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Completed",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 297-4408",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in UK",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-7476-549",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "ExxonMobil",
+            "Country": "Cayman Islands",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 737220 533987 499481",
+            "Address": "440 Rue de Commerce, Cayman Islands",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "Greenpeace",
+            "Country": "Switzerland",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 711121 841293 546633",
+            "Address": "106 Main Street, Switzerland",
+            "Tax ID": "TX-7201"
+        },
+        "Amount": "$2,052,334 ETH",
+        "Transaction Type": "Cheque",
+        "Status": "Completed",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 398-1660",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in British Virgin Islands",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-6773-561",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "ExxonMobil",
+            "Country": "USA",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 646028 213735 685641",
+            "Address": "230 Rue de Commerce, USA",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "BlackRock",
+            "Country": "British Virgin Islands",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 307948 799519 821433",
+            "Address": "320 Main Street, British Virgin Islands",
+            "Tax ID": "TX-7930"
+        },
+        "Amount": "$4,746,551 ETH",
+        "Transaction Type": "SWIFT",
+        "Status": "Rejected",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 259-7261",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in Cayman Islands",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-5354-460",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Shell Trading Ltd",
+            "Country": "USA",
+            "Bank": "HSBC",
+            "Account": "IBAN 998587 330662 712322",
+            "Address": "765 Rue de Finance, USA",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "Greenpeace",
+            "Country": "Cayman Islands",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 884279 923908 249529",
+            "Address": "466 Main Street, Cayman Islands",
+            "Tax ID": "TX-8558"
+        },
+        "Amount": "$4,549,717 EUR",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Rejected",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 612-2993",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Panama",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-6115-698",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Shell Holdings Ltd",
+            "Country": "Switzerland",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 602780 899146 260863",
+            "Address": "182 Rue de Finance, Switzerland",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "United Nations",
+            "Country": "USA",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 583094 896233 115363",
+            "Address": "192 Main Street, USA",
+            "Tax ID": "TX-2198"
+        },
+        "Amount": "$430,584 USD",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Rejected",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 556-6724",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in China",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-2975-761",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Gazprom",
+            "Country": "USA",
+            "Bank": "HSBC",
+            "Account": "IBAN 140668 807778 846189",
+            "Address": "995 Rue de Finance, USA",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "World Health Organization",
+            "Country": "UK",
+            "Bank": "HSBC",
+            "Account": "IBAN 609286 311893 891950",
+            "Address": "666 Main Street, UK",
+            "Tax ID": "TX-9499"
+        },
+        "Amount": "$2,836,022 EUR",
+        "Transaction Type": "SWIFT",
+        "Status": "Pending",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 610-1389",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in UK",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-7489-602",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "JP Morgan Chase",
+            "Country": "Cayman Islands",
+            "Bank": "HSBC",
+            "Account": "IBAN 756961 315833 548293",
+            "Address": "934 Rue de Finance, Cayman Islands",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "Panama Offshore Holdings",
+            "Country": "Russia",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 743787 558883 384047",
+            "Address": "307 Main Street, Russia",
+            "Tax ID": "TX-3782"
+        },
+        "Amount": "$983,643 EUR",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Rejected",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 904-7340",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in Cayman Islands",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-8365-729",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Goldman Sachs",
+            "Country": "Switzerland",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 652950 610649 336833",
+            "Address": "412 Rue de Finance, Switzerland",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "BlackRock",
+            "Country": "Cayman Islands",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 637780 435712 740644",
+            "Address": "282 Main Street, Cayman Islands",
+            "Tax ID": "TX-7021"
+        },
+        "Amount": "$3,793,830 ETH",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Completed",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 513-4418",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in British Virgin Islands",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-2776-390",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "BlackRock",
+            "Country": "British Virgin Islands",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 462261 688198 547584",
+            "Address": "317 Rue de Marche, British Virgin Islands",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "Oxfam International",
+            "Country": "Cayman Islands",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 904747 520783 153292",
+            "Address": "460 Main Street, Cayman Islands",
+            "Tax ID": "TX-8645"
+        },
+        "Amount": "$1,790,649 GBP",
+        "Transaction Type": "SWIFT",
+        "Status": "Rejected",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 586-4882",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in Panama",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-3356-164",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Hawala Network Inc",
+            "Country": "British Virgin Islands",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 248921 950756 105534",
+            "Address": "817 Rue de Finance, British Virgin Islands",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "JP Morgan Chase",
+            "Country": "British Virgin Islands",
+            "Bank": "HSBC",
+            "Account": "IBAN 708248 986261 278057",
+            "Address": "573 Main Street, British Virgin Islands",
+            "Tax ID": "TX-9433"
+        },
+        "Amount": "$4,483,888 USD",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Pending",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 994-5959",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in USA",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9482-492",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Shell Holdings Ltd",
+            "Country": "China",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 970348 488772 661279",
+            "Address": "609 Rue de Finance, China",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "BlackRock",
+            "Country": "Russia",
+            "Bank": "HSBC",
+            "Account": "IBAN 405502 636135 261929",
+            "Address": "504 Main Street, Russia",
+            "Tax ID": "TX-8867"
+        },
+        "Amount": "$733,392 ETH",
+        "Transaction Type": "SWIFT",
+        "Status": "Pending",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 410-5691",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in Germany",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-3343-944",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "North Korea Trading Corporation",
+            "Country": "USA",
+            "Bank": "HSBC",
+            "Account": "IBAN 116031 846015 274945",
+            "Address": "396 Rue de Marche, USA",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "United Nations",
+            "Country": "USA",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 975827 477947 360561",
+            "Address": "862 Main Street, USA",
+            "Tax ID": "TX-8937"
+        },
+        "Amount": "$880,728 EUR",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Under Review",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 558-6239",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in China",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-4383-409",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Shell Trading Ltd",
+            "Country": "China",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 861644 408998 420557",
+            "Address": "787 Rue de Marche, China",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "Rothschild & Co",
+            "Country": "USA",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 273661 478727 568234",
+            "Address": "332 Main Street, USA",
+            "Tax ID": "TX-7716"
+        },
+        "Amount": "$3,456,775 EUR",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Under Review",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 148-3684",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Germany",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-3759-145",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "BlackRock",
+            "Country": "British Virgin Islands",
+            "Bank": "HSBC",
+            "Account": "IBAN 688404 515353 663546",
+            "Address": "205 Rue de Finance, British Virgin Islands",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "United Nations",
+            "Country": "British Virgin Islands",
+            "Bank": "HSBC",
+            "Account": "IBAN 865165 372155 301832",
+            "Address": "390 Main Street, British Virgin Islands",
+            "Tax ID": "TX-4299"
+        },
+        "Amount": "$4,638,637 USD",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Completed",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 965-3399",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Panama",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-3231-186",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Tesla Inc.",
+            "Country": "Switzerland",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 645296 214209 152069",
+            "Address": "401 Rue de Finance, Switzerland",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "ExxonMobil",
+            "Country": "Germany",
+            "Bank": "HSBC",
+            "Account": "IBAN 935603 569746 673129",
+            "Address": "489 Main Street, Germany",
+            "Tax ID": "TX-5306"
+        },
+        "Amount": "$639,533 ETH",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Completed",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 218-8648",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in China",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-1409-313",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "BlackRock",
+            "Country": "British Virgin Islands",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 614705 591053 610052",
+            "Address": "932 Rue de Finance, British Virgin Islands",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "HSBC Holdings",
+            "Country": "UK",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 668395 797114 476374",
+            "Address": "969 Main Street, UK",
+            "Tax ID": "TX-7637"
+        },
+        "Amount": "$2,240,554 ETH",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Pending",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 464-1036",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in Switzerland",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9497-724",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Panama Offshore Holdings",
+            "Country": "Panama",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 628595 406231 792532",
+            "Address": "227 Rue de Marche, Panama",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "Greenpeace",
+            "Country": "Switzerland",
+            "Bank": "HSBC",
+            "Account": "IBAN 218882 781011 518352",
+            "Address": "602 Main Street, Switzerland",
+            "Tax ID": "TX-7136"
+        },
+        "Amount": "$2,149,808 ETH",
+        "Transaction Type": "SWIFT",
+        "Status": "Under Review",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 603-5437",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in UK",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-7130-519",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Goldman Sachs",
+            "Country": "USA",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 603100 502960 458618",
+            "Address": "280 Rue de Finance, USA",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "Tesla Inc.",
+            "Country": "Panama",
+            "Bank": "HSBC",
+            "Account": "IBAN 409790 362749 929783",
+            "Address": "354 Main Street, Panama",
+            "Tax ID": "TX-6898"
+        },
+        "Amount": "$155,415 GBP",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Completed",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 278-6058",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in British Virgin Islands",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-2929-750",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "North Korea Trading Corporation",
+            "Country": "Germany",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 173001 495303 945687",
+            "Address": "182 Rue de Finance, Germany",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Red Cross",
+            "Country": "UK",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 192444 660928 798446",
+            "Address": "461 Main Street, UK",
+            "Tax ID": "TX-4068"
+        },
+        "Amount": "$156,914 EUR",
+        "Transaction Type": "SWIFT",
+        "Status": "Rejected",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 834-6908",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in Panama",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-6333-509",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Rostec",
+            "Country": "Panama",
+            "Bank": "HSBC",
+            "Account": "IBAN 152947 237524 688152",
+            "Address": "907 Rue de Finance, Panama",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "Rothschild & Co",
+            "Country": "China",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 463132 732538 832988",
+            "Address": "284 Main Street, China",
+            "Tax ID": "TX-9677"
+        },
+        "Amount": "$1,991,126 GBP",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Rejected",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 534-8882",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in China",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-1501-498",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Nicolas Maduro",
+            "Country": "USA",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 519808 550969 810847",
+            "Address": "546 Rue de Marche, USA",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "Tesla Inc.",
+            "Country": "Germany",
+            "Bank": "HSBC",
+            "Account": "IBAN 972612 567877 580837",
+            "Address": "777 Main Street, Germany",
+            "Tax ID": "TX-3027"
+        },
+        "Amount": "$2,059,041 GBP",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Completed",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 493-6256",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in USA",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-1082-927",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "United Nations",
+            "Country": "USA",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 220099 852832 292956",
+            "Address": "699 Rue de Finance, USA",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "Panama Offshore Holdings",
+            "Country": "Switzerland",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 495752 270963 240272",
+            "Address": "951 Main Street, Switzerland",
+            "Tax ID": "TX-7167"
+        },
+        "Amount": "$2,720,092 EUR",
+        "Transaction Type": "SWIFT",
+        "Status": "Completed",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 176-3286",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in UK",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9242-691",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Panama Offshore Holdings",
+            "Country": "Russia",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 721101 764943 676941",
+            "Address": "209 Rue de Marche, Russia",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "JP Morgan Chase",
+            "Country": "Switzerland",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 964194 611371 294779",
+            "Address": "289 Main Street, Switzerland",
+            "Tax ID": "TX-2453"
+        },
+        "Amount": "$1,011,857 BTC",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Completed",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 803-9909",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in Russia",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-6567-429",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Vladimir Putin",
+            "Country": "China",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 451691 469634 901975",
+            "Address": "101 Rue de Finance, China",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "Greenpeace",
+            "Country": "China",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 607184 471314 120947",
+            "Address": "298 Main Street, China",
+            "Tax ID": "TX-8226"
+        },
+        "Amount": "$1,611,817 USD",
+        "Transaction Type": "Cheque",
+        "Status": "Pending",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 101-7386",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in China",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-3489-827",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Goldman Sachs",
+            "Country": "Panama",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 810652 541261 929545",
+            "Address": "434 Rue de Finance, Panama",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Tesla Inc.",
+            "Country": "USA",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 433809 617428 278147",
+            "Address": "172 Main Street, USA",
+            "Tax ID": "TX-4394"
+        },
+        "Amount": "$3,634,797 GBP",
+        "Transaction Type": "Cheque",
+        "Status": "Rejected",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 126-9176",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Switzerland",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9158-920",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Goldman Sachs",
+            "Country": "Panama",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 268594 425674 805373",
+            "Address": "107 Rue de Marche, Panama",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "United Nations",
+            "Country": "Russia",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 531781 424610 759686",
+            "Address": "868 Main Street, Russia",
+            "Tax ID": "TX-2941"
+        },
+        "Amount": "$2,950,010 BTC",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Rejected",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 507-3703",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Germany",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-7097-262",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Gazprom",
+            "Country": "British Virgin Islands",
+            "Bank": "HSBC",
+            "Account": "IBAN 657740 414870 918952",
+            "Address": "788 Rue de Commerce, British Virgin Islands",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Rothschild & Co",
+            "Country": "Switzerland",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 294806 215013 845728",
+            "Address": "503 Main Street, Switzerland",
+            "Tax ID": "TX-8990"
+        },
+        "Amount": "$3,887,052 ETH",
+        "Transaction Type": "Cheque",
+        "Status": "Completed",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 989-4423",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in UK",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9443-220",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "ABC Offshore Services",
+            "Country": "Cayman Islands",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 507406 976628 656926",
+            "Address": "328 Rue de Finance, Cayman Islands",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Panama Offshore Holdings",
+            "Country": "Switzerland",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 424207 320136 141024",
+            "Address": "285 Main Street, Switzerland",
+            "Tax ID": "TX-6924"
+        },
+        "Amount": "$2,591,691 EUR",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Pending",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 836-6457",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in China",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9490-570",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Oxfam International",
+            "Country": "USA",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 342268 242623 116838",
+            "Address": "558 Rue de Finance, USA",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "Greenpeace",
+            "Country": "Germany",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 297930 422758 845573",
+            "Address": "536 Main Street, Germany",
+            "Tax ID": "TX-3811"
+        },
+        "Amount": "$4,284,841 GBP",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Pending",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 799-6334",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in Cayman Islands",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-3971-890",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Hawala Network Inc",
+            "Country": "Russia",
+            "Bank": "HSBC",
+            "Account": "IBAN 587830 831795 636961",
+            "Address": "287 Rue de Commerce, Russia",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Red Cross",
+            "Country": "USA",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 564858 385443 339506",
+            "Address": "773 Main Street, USA",
+            "Tax ID": "TX-2827"
+        },
+        "Amount": "$1,434,215 USD",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Under Review",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 660-7631",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in Germany",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9200-360",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Rothschild & Co",
+            "Country": "China",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 784724 153687 865701",
+            "Address": "796 Rue de Finance, China",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "United Nations",
+            "Country": "Russia",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 812024 100734 733146",
+            "Address": "462 Main Street, Russia",
+            "Tax ID": "TX-3798"
+        },
+        "Amount": "$643,094 EUR",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Rejected",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 443-8308",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in Panama",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-5161-216",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Red Cross",
+            "Country": "China",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 270764 803225 887270",
+            "Address": "782 Rue de Marche, China",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "Panama Offshore Holdings",
+            "Country": "Russia",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 390376 254695 955781",
+            "Address": "276 Main Street, Russia",
+            "Tax ID": "TX-5770"
+        },
+        "Amount": "$4,317,455 BTC",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Rejected",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 663-6078",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in Cayman Islands",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-6878-787",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Red Cross",
+            "Country": "Switzerland",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 499200 532089 763837",
+            "Address": "502 Rue de Commerce, Switzerland",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Goldman Sachs",
+            "Country": "Russia",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 671345 790576 131979",
+            "Address": "375 Main Street, Russia",
+            "Tax ID": "TX-9302"
+        },
+        "Amount": "$4,208,126 ETH",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Under Review",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 917-9475",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Switzerland",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-4123-416",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Hawala Network Inc",
+            "Country": "British Virgin Islands",
+            "Bank": "HSBC",
+            "Account": "IBAN 138899 762518 208388",
+            "Address": "619 Rue de Finance, British Virgin Islands",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Rothschild & Co",
+            "Country": "USA",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 414227 465847 582672",
+            "Address": "185 Main Street, USA",
+            "Tax ID": "TX-2424"
+        },
+        "Amount": "$4,292,316 USD",
+        "Transaction Type": "SWIFT",
+        "Status": "Completed",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 944-3028",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in UK",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-7269-779",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Panama Offshore Holdings",
+            "Country": "Cayman Islands",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 741155 775841 686390",
+            "Address": "440 Rue de Marche, Cayman Islands",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "Oxfam International",
+            "Country": "Switzerland",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 745488 392894 904389",
+            "Address": "716 Main Street, Switzerland",
+            "Tax ID": "TX-9707"
+        },
+        "Amount": "$403,659 BTC",
+        "Transaction Type": "Cheque",
+        "Status": "Pending",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 496-1880",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in China",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-4586-530",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Hawala Network Inc",
+            "Country": "UK",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 433315 219649 854452",
+            "Address": "432 Rue de Finance, UK",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "BlackRock",
+            "Country": "Russia",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 910945 665447 881264",
+            "Address": "992 Main Street, Russia",
+            "Tax ID": "TX-1727"
+        },
+        "Amount": "$1,652,382 ETH",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Pending",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 111-7720",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Russia",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-8997-973",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "JP Morgan Chase",
+            "Country": "USA",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 262033 863374 822089",
+            "Address": "188 Rue de Commerce, USA",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "BlackRock",
+            "Country": "British Virgin Islands",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 817004 985047 938728",
+            "Address": "953 Main Street, British Virgin Islands",
+            "Tax ID": "TX-8918"
+        },
+        "Amount": "$1,353,823 GBP",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Completed",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 515-1291",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in USA",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-1039-473",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Red Cross",
+            "Country": "Russia",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 195892 242110 197323",
+            "Address": "421 Rue de Marche, Russia",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "Goldman Sachs",
+            "Country": "China",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 899048 534529 546411",
+            "Address": "279 Main Street, China",
+            "Tax ID": "TX-1272"
+        },
+        "Amount": "$4,512,472 USD",
+        "Transaction Type": "Cheque",
+        "Status": "Completed",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 152-9750",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in Cayman Islands",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9916-154",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "HSBC Holdings",
+            "Country": "Switzerland",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 683453 764492 669187",
+            "Address": "468 Rue de Marche, Switzerland",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "ExxonMobil",
+            "Country": "Cayman Islands",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 639246 481180 142436",
+            "Address": "174 Main Street, Cayman Islands",
+            "Tax ID": "TX-6223"
+        },
+        "Amount": "$4,949,001 EUR",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Under Review",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 121-6035",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in Russia",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-1960-193",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "HSBC Holdings",
+            "Country": "Switzerland",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 396407 745852 669176",
+            "Address": "316 Rue de Marche, Switzerland",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "Rothschild & Co",
+            "Country": "Switzerland",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 780410 672517 365144",
+            "Address": "941 Main Street, Switzerland",
+            "Tax ID": "TX-9834"
+        },
+        "Amount": "$1,197,271 GBP",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Pending",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 688-3497",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in Russia",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9385-916",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Panama Offshore Holdings",
+            "Country": "Panama",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 163915 121557 125836",
+            "Address": "789 Rue de Finance, Panama",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "Goldman Sachs",
+            "Country": "China",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 805960 700580 811930",
+            "Address": "318 Main Street, China",
+            "Tax ID": "TX-2814"
+        },
+        "Amount": "$443,744 ETH",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Rejected",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 246-3861",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in Russia",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-5825-449",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Greenpeace",
+            "Country": "Germany",
+            "Bank": "HSBC",
+            "Account": "IBAN 126065 662816 805789",
+            "Address": "136 Rue de Finance, Germany",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "ExxonMobil",
+            "Country": "Germany",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 176281 180172 619366",
+            "Address": "378 Main Street, Germany",
+            "Tax ID": "TX-3635"
+        },
+        "Amount": "$4,719,251 ETH",
+        "Transaction Type": "Cheque",
+        "Status": "Completed",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 561-9483",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in Germany",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-1646-126",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "ExxonMobil",
+            "Country": "Switzerland",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 275056 532720 616701",
+            "Address": "507 Rue de Commerce, Switzerland",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "Panama Offshore Holdings",
+            "Country": "Cayman Islands",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 225462 469571 789191",
+            "Address": "864 Main Street, Cayman Islands",
+            "Tax ID": "TX-6726"
+        },
+        "Amount": "$3,194,188 USD",
+        "Transaction Type": "SWIFT",
+        "Status": "Rejected",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 802-2454",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in Russia",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-3339-929",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Tesla Inc.",
+            "Country": "UK",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 629052 149810 349462",
+            "Address": "658 Rue de Commerce, UK",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "World Health Organization",
+            "Country": "Russia",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 772590 674930 912573",
+            "Address": "707 Main Street, Russia",
+            "Tax ID": "TX-4135"
+        },
+        "Amount": "$3,748,043 ETH",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Completed",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 526-8488",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in Panama",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-5540-904",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "World Health Organization",
+            "Country": "USA",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 917592 525695 422663",
+            "Address": "672 Rue de Commerce, USA",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Greenpeace",
+            "Country": "UK",
+            "Bank": "HSBC",
+            "Account": "IBAN 389737 629735 378143",
+            "Address": "507 Main Street, UK",
+            "Tax ID": "TX-5284"
+        },
+        "Amount": "$4,038,377 USD",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Rejected",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 272-7984",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in UK",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-8256-846",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "JP Morgan Chase",
+            "Country": "Germany",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 321157 277442 319364",
+            "Address": "352 Rue de Commerce, Germany",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "Tesla Inc.",
+            "Country": "British Virgin Islands",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 323615 444865 685613",
+            "Address": "272 Main Street, British Virgin Islands",
+            "Tax ID": "TX-3886"
+        },
+        "Amount": "$2,032,262 BTC",
+        "Transaction Type": "SWIFT",
+        "Status": "Under Review",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 836-2235",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in Cayman Islands",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-5768-644",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Crypto Exchange Ltd",
+            "Country": "British Virgin Islands",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 873407 723994 770044",
+            "Address": "420 Rue de Marche, British Virgin Islands",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Panama Offshore Holdings",
+            "Country": "China",
+            "Bank": "HSBC",
+            "Account": "IBAN 507180 771628 743395",
+            "Address": "276 Main Street, China",
+            "Tax ID": "TX-2827"
+        },
+        "Amount": "$3,740,430 BTC",
+        "Transaction Type": "SWIFT",
+        "Status": "Pending",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 252-6181",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in Panama",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-2560-370",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Tesla Inc.",
+            "Country": "USA",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 542041 496315 929613",
+            "Address": "127 Rue de Marche, USA",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "Goldman Sachs",
+            "Country": "Russia",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 463767 125120 753707",
+            "Address": "730 Main Street, Russia",
+            "Tax ID": "TX-1307"
+        },
+        "Amount": "$1,667,377 GBP",
+        "Transaction Type": "Cheque",
+        "Status": "Rejected",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 552-8692",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in British Virgin Islands",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-2890-882",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Hawala Network Inc",
+            "Country": "China",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 914449 718442 706908",
+            "Address": "470 Rue de Commerce, China",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "United Nations",
+            "Country": "Russia",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 774713 629411 283508",
+            "Address": "497 Main Street, Russia",
+            "Tax ID": "TX-4411"
+        },
+        "Amount": "$4,043,170 GBP",
+        "Transaction Type": "Cheque",
+        "Status": "Pending",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 116-5081",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in USA",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-8433-337",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Rostec",
+            "Country": "USA",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 473963 555920 763593",
+            "Address": "496 Rue de Marche, USA",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "Panama Offshore Holdings",
+            "Country": "Switzerland",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 127131 966383 782433",
+            "Address": "708 Main Street, Switzerland",
+            "Tax ID": "TX-6654"
+        },
+        "Amount": "$89,139 USD",
+        "Transaction Type": "SWIFT",
+        "Status": "Under Review",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 395-8236",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Cayman Islands",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-8522-674",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Oxfam International",
+            "Country": "Cayman Islands",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 670065 303707 404285",
+            "Address": "955 Rue de Commerce, Cayman Islands",
+            "Notes": "Project Investment"
+        },
+        "Receiver": {
+            "Name": "Red Cross",
+            "Country": "Cayman Islands",
+            "Bank": "HSBC",
+            "Account": "IBAN 574432 417364 915249",
+            "Address": "371 Main Street, Cayman Islands",
+            "Tax ID": "TX-8932"
+        },
+        "Amount": "$1,168,738 BTC",
+        "Transaction Type": "Cheque",
+        "Status": "Completed",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 370-5923",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in USA",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9469-792",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Gazprom",
+            "Country": "Switzerland",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 310190 806202 637821",
+            "Address": "670 Rue de Commerce, Switzerland",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "Greenpeace",
+            "Country": "USA",
+            "Bank": "HSBC",
+            "Account": "IBAN 344982 464701 269566",
+            "Address": "191 Main Street, USA",
+            "Tax ID": "TX-9161"
+        },
+        "Amount": "$4,310,779 BTC",
+        "Transaction Type": "Cheque",
+        "Status": "Completed",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 932-8761",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in USA",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-4468-902",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "ExxonMobil",
+            "Country": "Russia",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 438337 800877 599212",
+            "Address": "237 Rue de Marche, Russia",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "HSBC Holdings",
+            "Country": "Switzerland",
+            "Bank": "HSBC",
+            "Account": "IBAN 161249 697819 731985",
+            "Address": "647 Main Street, Switzerland",
+            "Tax ID": "TX-6761"
+        },
+        "Amount": "$340,573 ETH",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Completed",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 407-3170",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in British Virgin Islands",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-1242-367",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "ABC Offshore Services",
+            "Country": "China",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 624679 536861 960398",
+            "Address": "281 Rue de Finance, China",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Red Cross",
+            "Country": "Cayman Islands",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 229334 214606 869646",
+            "Address": "212 Main Street, Cayman Islands",
+            "Tax ID": "TX-3055"
+        },
+        "Amount": "$4,085,164 GBP",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Pending",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 789-6211",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in China",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-5313-266",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "JP Morgan Chase",
+            "Country": "USA",
+            "Bank": "HSBC",
+            "Account": "IBAN 389798 831310 872926",
+            "Address": "951 Rue de Finance, USA",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "JP Morgan Chase",
+            "Country": "Switzerland",
+            "Bank": "HSBC",
+            "Account": "IBAN 293281 799914 591609",
+            "Address": "481 Main Street, Switzerland",
+            "Tax ID": "TX-1134"
+        },
+        "Amount": "$2,043,586 GBP",
+        "Transaction Type": "SWIFT",
+        "Status": "Pending",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 490-7547",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in Russia",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-4249-682",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Panama Offshore Holdings",
+            "Country": "Germany",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 518148 539994 997730",
+            "Address": "278 Rue de Finance, Germany",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Oxfam International",
+            "Country": "UK",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 974306 786464 173908",
+            "Address": "357 Main Street, UK",
+            "Tax ID": "TX-8366"
+        },
+        "Amount": "$2,255,747 BTC",
+        "Transaction Type": "Cheque",
+        "Status": "Under Review",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 881-3808",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Germany",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9922-253",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Shell Trading Ltd",
+            "Country": "Cayman Islands",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 464265 747350 655987",
+            "Address": "753 Rue de Marche, Cayman Islands",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Panama Offshore Holdings",
+            "Country": "British Virgin Islands",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 234608 645867 301553",
+            "Address": "262 Main Street, British Virgin Islands",
+            "Tax ID": "TX-9702"
+        },
+        "Amount": "$1,858,903 BTC",
+        "Transaction Type": "Cheque",
+        "Status": "Rejected",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 818-9823",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in Cayman Islands",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-3391-614",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Tesla Inc.",
+            "Country": "British Virgin Islands",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 942975 599315 464796",
+            "Address": "855 Rue de Marche, British Virgin Islands",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "BlackRock",
+            "Country": "British Virgin Islands",
+            "Bank": "HSBC",
+            "Account": "IBAN 214686 735220 605401",
+            "Address": "394 Main Street, British Virgin Islands",
+            "Tax ID": "TX-8995"
+        },
+        "Amount": "$3,125,266 ETH",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Completed",
+        "Compliance Check": "No Red Flags",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 748-1254",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Germany",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-5673-986",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Crypto Exchange Ltd",
+            "Country": "Germany",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 473111 719386 372432",
+            "Address": "647 Rue de Marche, Germany",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "Oxfam International",
+            "Country": "British Virgin Islands",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 791022 759204 819714",
+            "Address": "529 Main Street, British Virgin Islands",
+            "Tax ID": "TX-1809"
+        },
+        "Amount": "$3,945,183 ETH",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Rejected",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 242-7030",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in Germany",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-2456-540",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Gazprom",
+            "Country": "British Virgin Islands",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 289337 226277 435900",
+            "Address": "774 Rue de Finance, British Virgin Islands",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "Oxfam International",
+            "Country": "Switzerland",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 747905 354361 350844",
+            "Address": "596 Main Street, Switzerland",
+            "Tax ID": "TX-1470"
+        },
+        "Amount": "$388,541 BTC",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Pending",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 994-6753",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in Germany",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-1965-886",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Greenpeace",
+            "Country": "China",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 888390 732651 519357",
+            "Address": "522 Rue de Marche, China",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "HSBC Holdings",
+            "Country": "USA",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 421212 356899 459203",
+            "Address": "346 Main Street, USA",
+            "Tax ID": "TX-9782"
+        },
+        "Amount": "$359,869 BTC",
+        "Transaction Type": "SWIFT",
+        "Status": "Under Review",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 724-4362",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in Russia",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9412-816",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Red Cross",
+            "Country": "Switzerland",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 703988 520752 561877",
+            "Address": "674 Rue de Marche, Switzerland",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "World Health Organization",
+            "Country": "UK",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 543101 331544 574967",
+            "Address": "871 Main Street, UK",
+            "Tax ID": "TX-8790"
+        },
+        "Amount": "$4,173,908 ETH",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Rejected",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 974-2005",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Russia",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9843-122",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Goldman Sachs",
+            "Country": "USA",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 742163 563227 423070",
+            "Address": "342 Rue de Commerce, USA",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "United Nations",
+            "Country": "Germany",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 461253 177122 232133",
+            "Address": "435 Main Street, Germany",
+            "Tax ID": "TX-6962"
+        },
+        "Amount": "$2,572,090 EUR",
+        "Transaction Type": "SWIFT",
+        "Status": "Rejected",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 112-9947",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in USA",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-5210-308",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "ExxonMobil",
+            "Country": "Russia",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 816894 278045 204455",
+            "Address": "446 Rue de Finance, Russia",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "BlackRock",
+            "Country": "USA",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 648261 304635 445894",
+            "Address": "583 Main Street, USA",
+            "Tax ID": "TX-3105"
+        },
+        "Amount": "$3,505,312 GBP",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Under Review",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 923-6948",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in British Virgin Islands",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-9494-291",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Vladimir Putin",
+            "Country": "British Virgin Islands",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 157394 583919 148069",
+            "Address": "230 Rue de Marche, British Virgin Islands",
+            "Notes": "Consulting Fee"
+        },
+        "Receiver": {
+            "Name": "United Nations",
+            "Country": "Russia",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 908032 971730 790829",
+            "Address": "446 Main Street, Russia",
+            "Tax ID": "TX-6214"
+        },
+        "Amount": "$2,204,269 ETH",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Under Review",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "192.168.29.183",
+        "Additional Notes": [
+            "Invoice matched with contract ref 105-4088",
+            "Sender IP 192.168.29.183 detected using VPN exit mode in Panama",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-3502-179",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Goldman Sachs",
+            "Country": "Panama",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 564693 993732 311588",
+            "Address": "466 Rue de Commerce, Panama",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "JP Morgan Chase",
+            "Country": "UK",
+            "Bank": "Deutsche Bank",
+            "Account": "IBAN 985741 958740 545700",
+            "Address": "594 Main Street, UK",
+            "Tax ID": "TX-6229"
+        },
+        "Amount": "$4,791,317 ETH",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Completed",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 600-8282",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in China",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-2077-376",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Tesla Inc.",
+            "Country": "UK",
+            "Bank": "Swiss National Bank",
+            "Account": "IBAN 188378 900495 377034",
+            "Address": "597 Rue de Marche, UK",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Tesla Inc.",
+            "Country": "UK",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 753423 260179 719286",
+            "Address": "123 Main Street, UK",
+            "Tax ID": "TX-1194"
+        },
+        "Amount": "$396,752 EUR",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Pending",
+        "Compliance Check": "Politically Exposed Person (PEP)",
+        "IP Address": "102.56.12.34",
+        "Additional Notes": [
+            "Invoice matched with contract ref 634-4448",
+            "Sender IP 102.56.12.34 detected using VPN exit mode in China",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-7973-749",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Gazprom",
+            "Country": "UK",
+            "Bank": "Cayman National Bank",
+            "Account": "IBAN 788027 107118 164047",
+            "Address": "844 Rue de Commerce, UK",
+            "Notes": "Loan Repayment"
+        },
+        "Receiver": {
+            "Name": "Oxfam International",
+            "Country": "UK",
+            "Bank": "HSBC",
+            "Account": "IBAN 429682 518335 447803",
+            "Address": "471 Main Street, UK",
+            "Tax ID": "TX-3608"
+        },
+        "Amount": "$4,774,354 ETH",
+        "Transaction Type": "Wire Transfer",
+        "Status": "Pending",
+        "Compliance Check": "High-Risk Country",
+        "IP Address": "203.45.67.22",
+        "Additional Notes": [
+            "Invoice matched with contract ref 517-6824",
+            "Sender IP 203.45.67.22 detected using VPN exit mode in Germany",
+            "Regulatory screening pending for further due diligence"
+        ]
+    },
+    {
+        "Transaction ID": "TXN-7902-480",
+        "Date": "2025-03-25 23:57:50",
+        "Sender": {
+            "Name": "Oxfam International",
+            "Country": "UK",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 991631 285224 904547",
+            "Address": "992 Rue de Commerce, UK",
+            "Notes": "Charitable Donation"
+        },
+        "Receiver": {
+            "Name": "HSBC Holdings",
+            "Country": "Panama",
+            "Bank": "JP Morgan Chase",
+            "Account": "IBAN 561745 483918 977742",
+            "Address": "196 Main Street, Panama",
+            "Tax ID": "TX-6758"
+        },
+        "Amount": "$2,652,178 EUR",
+        "Transaction Type": "Cryptocurrency",
+        "Status": "Completed",
+        "Compliance Check": "OFAC Sanctions Match",
+        "IP Address": "180.76.76.50",
+        "Additional Notes": [
+            "Invoice matched with contract ref 599-2349",
+            "Sender IP 180.76.76.50 detected using VPN exit mode in Switzerland",
+            "Regulatory screening pending for further due diligence"
+        ]
+    }
+]
