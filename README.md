@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 AI-Driven Entity Intelligence Risk Analysis
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
