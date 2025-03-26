@@ -21,24 +21,24 @@ The Entity Intelligence Risk Analysis Model automates the detection, verificatio
 📹 [Video Demo](https://github.com/ewfx/aidel-code-302/tree/main/artifacts/demo)   
 
 ## ⚙️ What It Does
-Processes Structured & Unstructured Data (CSV, JSON, Text)
-Uses AI & NLP (BERT-based NER) to Extract Entity Relationships
-Cross-checks Entities Against Sanctions Lists (OFAC, World Bank, SEC Edgar)
-Assigns Risk Scores (High, Medium, Low) Based on Entity & Transaction Risk
-Generates Standardized Output in CSV/Excel Format
-REST API Integration for Frontend Dashboard
+- Processes Structured & Unstructured Data (CSV, JSON, Text)
+- Uses AI & NLP (BERT-based NER) to Extract Entity Relationships
+- Cross-checks Entities Against Sanctions Lists (OFAC, World Bank, SEC Edgar)
+- Assigns Risk Scores (High, Medium, Low) Based on Entity & Transaction Risk
+- Generates Standardized Output in CSV/Excel Format
+- REST API Integration for Frontend Dashboard
 
 ## 🛠️ How We Built It
-Extract Entities (Organizations, People, Locations) using BERT (NER).
-Identify Ownership Links 
-Risk Assessment (Sanctions List, Financial Crime Checks).
-Generate Structured Output (CSV) for further analysis.
+- Extract Entities (Organizations, People, Locations) using BERT (NER).
+- Identify Ownership Links 
+- Risk Assessment (Sanctions List, Financial Crime Checks).
+- Generate Structured Output (CSV) for further analysis.
 
 
 ## 🚧 Challenges We Faced
-Processing highly unstructured text data efficiently.
-Ensuring BERT’s NER model correctly detects organizations & people.
-Integrating real-time sanctions databases & news sources.
+- Processing highly unstructured text data efficiently.
+- Ensuring BERT’s NER model correctly detects organizations & people.
+- Integrating real-time sanctions databases & news sources.
 
 ## 🏃 How to Run
 1. Clone the repository  
@@ -47,11 +47,12 @@ Integrating real-time sanctions databases & news sources.
    ```
 2. Install dependencies  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   npm i  # or pip install -r requirements.txt (for Python)
    ```
 3. Run the project  
    ```sh
    python src\main.py
+   npm start
    ```
 
 ## 🏗️ Tech Stack
