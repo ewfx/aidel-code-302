@@ -54,7 +54,7 @@ The Entity Intelligence Risk Analysis Model automates the detection, verificatio
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React, mUI
+- 🔹 Frontend: React, MUI
 - 🔹 Backend: Python, Pandas, NumPy, Torch, sklearn, transformers, datasets, evaluate, json
 - 🔹 Database: OFAC-SDN, Non-SDN, World Bank’s Debarred List
 
